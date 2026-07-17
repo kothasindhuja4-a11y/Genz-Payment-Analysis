@@ -1,0 +1,40 @@
+theme: jekyll-theme-minimal
+title: Gen Z & Alpha Gen Z Payment Preferences Analysis
+description: Understanding how younger generations prefer to pay - comprehensive research, data analysis, and insights
+logo: /assets/images/logo.png
+show_downloads: true
+github:
+  is_project_page: true
+  repository_url: https://github.com/yourusername/genz-payment-analysis
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Site URL
+url: "https://yourusername.github.io"
+baseurl: "/genz-payment-analysis"
+
+# Navigation
+navigation:
+  - Home: index.md
+  - Key Findings: findings.md
+  - Generational Profiles: generational_breakdown.md
+  - Payment Methods: payment_methods.md
+  - Recommendations: recommendations.md
+  - Methodology: /RESEARCH_FRAMEWORK.md
+
+# Analytics
+google_analytics_id: "UA-XXXXXXXXX-X"
+
+# Social
+social_links:
+  twitter: yourusername
+  github: yourusername
+  linkedin: yourusername
+
+# Footer
+footer_text: "Gen Z Payment Analysis Project | Data-driven insights into payment preferences for younger generations | Last updated July 2026"

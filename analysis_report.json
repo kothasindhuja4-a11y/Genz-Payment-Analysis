@@ -1,0 +1,35 @@
+{
+  "total_respondents": 500,
+  "generation_breakdown": {
+    "Gen Z (14-29)": 179,
+    "Millennial (30-44)": 114,
+    "Gen X (45-59)": 101,
+    "Boomer (60+)": 76,
+    "Alpha (1-13)": 30
+  },
+  "average_metrics": {
+    "payment_satisfaction": 3.702,
+    "trust_score": 3.541,
+    "security_concern": 3.072,
+    "privacy_concern": 2.96
+  },
+  "adoption_rates": {
+    "bnpl": 41.8,
+    "mobile_preference": 77.2
+  },
+  "primary_method_distribution": {
+    "bnpl": 99,
+    "p2p_payment": 88,
+    "debit_card": 84,
+    "credit_card": 81,
+    "digital_wallet": 76,
+    "crypto": 72
+  },
+  "top_features": {
+    "speed_importance": 3.054,
+    "sustainability_importance": 3.03,
+    "security_importance": 3.022,
+    "ease_of_use_importance": 2.974,
+    "privacy_importance": 2.924
+  }
+}
