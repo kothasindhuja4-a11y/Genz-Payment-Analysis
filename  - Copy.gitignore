@@ -1,0 +1,59 @@
+# .gitignore
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Data files
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.log
+.env
+config.local.*
+temp/
+cache/
+
+# Sensitive data
+**/secrets
+**/credentials
+**/tokens
+*.pem
+*.key
+
+# Build artifacts
+site/
+build/
+dist/
+
+# Analytics
+google_analytics_id
+
+# Database
+*.db
+*.sqlite
