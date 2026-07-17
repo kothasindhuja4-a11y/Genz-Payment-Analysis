@@ -1,0 +1,501 @@
+respondent_id,generation,age,gender,region,income_level,employment_status,annual_transactions,digital_wallet_frequency,bnpl_frequency,debit_card_frequency,credit_card_frequency,p2p_payment_frequency,crypto_frequency,speed_importance,security_importance,privacy_importance,ease_of_use_importance,rewards_importance,mobility_importance,biometric_importance,sustainability_importance,primary_payment_method,payment_satisfaction,trust_score,security_concern,privacy_concern,mobile_preference,biometric_interest,bnpl_user,crypto_experience
+1,Millennial (30-44),67,Male,Latin America,<$25k,Student,147,5,1,2,5,4,4,5,3,3,2,1,2,3,1,credit_card,4.0,2.8,5,1,No,1,No,Regular user
+2,Alpha (1-13),30,Female,Europe,>$250k,Student,3265,2,5,1,2,1,5,2,3,4,5,4,2,4,1,credit_card,2.7,4.5,5,4,Yes,5,No,Regular user
+3,Gen X (45-59),22,Prefer not to say,Latin America,$25k-$50k,Unemployed,4580,3,4,3,5,4,5,5,4,3,5,5,4,1,1,crypto,4.9,4.9,1,5,No,3,No,Tried it
+4,Millennial (30-44),46,Female,Asia-Pacific,$25k-$50k,Self-employed,4782,5,5,2,5,2,4,2,2,5,1,5,5,5,3,debit_card,4.3,3.5,3,3,Yes,2,Yes,Heard of it
+5,Gen Z (14-29),66,Female,North America,$50k-$100k,Unemployed,3800,4,3,1,3,1,1,5,1,3,3,4,1,1,5,p2p_payment,4.5,2.0,1,1,Yes,3,Yes,Heard of it
+6,Gen Z (14-29),33,Female,Asia-Pacific,>$250k,Self-employed,3207,5,3,5,1,2,4,1,5,5,2,1,1,1,2,p2p_payment,4.3,2.4,3,1,Yes,1,No,No experience
+7,Gen Z (14-29),26,Male,Europe,<$25k,Student,4733,3,5,1,1,1,1,2,1,2,4,2,1,1,2,digital_wallet,4.0,3.0,1,1,Yes,2,Yes,Heard of it
+8,Boomer (60+),41,Non-binary,North America,<$25k,Student,393,4,3,1,3,2,2,2,5,3,3,1,2,1,5,bnpl,3.6,3.7,4,1,Yes,3,Yes,Tried it
+9,Gen X (45-59),61,Female,Europe,$100k-$250k,Unemployed,4716,5,4,1,3,4,1,4,3,2,1,5,4,1,5,debit_card,4.6,2.2,3,4,No,1,Yes,Heard of it
+10,Gen X (45-59),42,Male,Europe,<$25k,Retired,660,1,2,3,3,4,2,5,1,2,5,1,3,4,5,digital_wallet,4.9,4.8,2,5,Yes,2,No,Tried it
+11,Gen Z (14-29),26,Female,Asia-Pacific,$50k-$100k,Unemployed,1777,4,3,1,1,2,2,5,4,1,2,2,2,5,5,digital_wallet,3.7,3.1,3,2,No,2,Yes,No experience
+12,Alpha (1-13),59,Female,Europe,$50k-$100k,Self-employed,2340,1,3,3,5,1,1,2,2,2,3,3,3,1,3,credit_card,4.8,4.7,3,5,No,1,No,Regular user
+13,Boomer (60+),48,Male,Asia-Pacific,<$25k,Unemployed,1904,2,5,5,3,3,3,1,4,2,4,1,4,1,2,bnpl,4.0,4.3,3,1,No,2,No,Tried it
+14,Gen Z (14-29),74,Non-binary,North America,<$25k,Employed,2658,4,4,3,2,4,1,1,2,3,1,4,5,1,4,bnpl,3.8,4.3,4,4,Yes,1,Yes,Regular user
+15,Gen Z (14-29),19,Non-binary,Asia-Pacific,$100k-$250k,Self-employed,2129,1,2,5,3,4,5,1,1,3,1,3,1,1,2,debit_card,3.6,3.8,1,4,Yes,4,No,No experience
+16,Gen Z (14-29),31,Prefer not to say,North America,<$25k,Self-employed,2374,3,5,5,4,3,5,5,1,4,3,4,3,2,2,bnpl,3.0,3.9,2,1,Yes,4,No,Tried it
+17,Gen Z (14-29),64,Male,Asia-Pacific,$100k-$250k,Retired,4677,3,5,3,3,2,3,4,2,1,4,4,2,2,1,digital_wallet,2.5,3.9,1,4,Yes,2,No,Tried it
+18,Millennial (30-44),18,Prefer not to say,Latin America,$100k-$250k,Student,1227,2,4,2,1,1,2,2,3,2,1,4,3,3,5,bnpl,3.1,3.9,1,1,Yes,2,No,Heard of it
+19,Millennial (30-44),60,Prefer not to say,Latin America,<$25k,Self-employed,1141,4,2,4,3,2,3,3,5,1,2,1,5,1,5,bnpl,3.8,3.7,5,5,Yes,1,No,Tried it
+20,Gen Z (14-29),38,Prefer not to say,Europe,$25k-$50k,Student,2841,4,4,1,4,5,5,4,4,5,1,5,1,3,5,p2p_payment,3.4,5.0,4,3,Yes,2,No,No experience
+21,Gen X (45-59),15,Non-binary,Asia-Pacific,$25k-$50k,Unemployed,1799,4,2,4,2,4,3,3,4,2,4,3,3,4,1,digital_wallet,3.6,4.2,5,4,No,5,Yes,Regular user
+22,Gen Z (14-29),23,Male,Asia-Pacific,$100k-$250k,Employed,2725,2,4,1,5,5,1,4,4,1,5,2,5,3,3,crypto,5.0,4.3,4,1,No,4,No,Tried it
+23,Gen Z (14-29),69,Prefer not to say,North America,<$25k,Retired,831,4,5,1,3,4,3,1,1,4,5,5,2,5,3,bnpl,3.4,4.6,1,1,Yes,2,No,No experience
+24,Millennial (30-44),43,Male,Europe,$25k-$50k,Student,3098,3,5,5,4,4,2,5,4,4,3,1,4,2,4,bnpl,3.6,2.6,1,4,Yes,2,No,No experience
+25,Millennial (30-44),63,Male,Asia-Pacific,<$25k,Self-employed,2155,1,1,1,4,5,1,3,5,2,4,4,2,2,3,credit_card,2.8,2.3,4,2,Yes,3,No,Tried it
+26,Gen X (45-59),72,Non-binary,Europe,<$25k,Student,3917,3,3,1,2,5,4,4,5,5,1,2,1,1,3,bnpl,2.6,3.4,1,1,Yes,2,Yes,Heard of it
+27,Gen Z (14-29),58,Prefer not to say,Latin America,<$25k,Self-employed,4592,3,4,3,1,2,5,5,2,4,1,3,2,1,5,bnpl,4.4,3.5,1,4,Yes,5,No,Tried it
+28,Millennial (30-44),18,Prefer not to say,Asia-Pacific,>$250k,Student,2163,1,1,4,3,5,5,3,1,4,5,5,2,4,2,p2p_payment,3.9,4.5,2,1,Yes,4,Yes,Tried it
+29,Millennial (30-44),68,Male,Asia-Pacific,<$25k,Self-employed,4020,3,3,3,4,2,3,2,5,5,5,5,2,4,3,digital_wallet,4.4,3.3,5,2,Yes,3,No,Heard of it
+30,Gen Z (14-29),69,Female,Europe,>$250k,Unemployed,2041,2,4,1,2,2,1,4,3,1,2,2,2,5,3,debit_card,2.9,3.7,5,3,Yes,1,Yes,No experience
+31,Gen X (45-59),46,Non-binary,Asia-Pacific,$100k-$250k,Self-employed,1117,1,2,5,5,2,4,2,1,4,5,1,1,1,1,digital_wallet,3.9,3.6,5,2,Yes,1,No,Tried it
+32,Gen Z (14-29),67,Non-binary,Europe,$25k-$50k,Self-employed,1627,3,3,3,4,4,1,1,1,3,2,3,5,1,4,credit_card,3.1,2.1,3,5,Yes,4,No,Heard of it
+33,Gen Z (14-29),14,Non-binary,Asia-Pacific,$25k-$50k,Employed,1061,5,5,3,2,4,5,2,5,4,1,2,3,4,1,digital_wallet,3.1,3.8,2,4,No,1,No,Regular user
+34,Boomer (60+),31,Non-binary,North America,$25k-$50k,Self-employed,2324,3,1,2,1,5,1,2,3,1,2,4,4,4,5,bnpl,2.5,4.5,5,2,Yes,5,No,Regular user
+35,Alpha (1-13),45,Prefer not to say,Europe,$25k-$50k,Employed,4919,2,3,1,1,4,4,4,2,1,2,3,3,4,2,credit_card,2.8,2.5,5,3,Yes,2,No,Heard of it
+36,Boomer (60+),60,Prefer not to say,Asia-Pacific,$25k-$50k,Retired,1864,4,3,5,4,5,3,1,5,2,3,5,3,2,4,digital_wallet,3.3,3.8,2,1,Yes,4,No,No experience
+37,Gen Z (14-29),62,Female,Latin America,$25k-$50k,Employed,2476,3,5,3,4,4,2,2,3,3,5,2,4,3,1,credit_card,2.8,3.8,1,4,Yes,3,No,Heard of it
+38,Gen Z (14-29),24,Non-binary,Asia-Pacific,$25k-$50k,Unemployed,4452,4,4,3,3,1,1,5,1,1,2,5,1,3,3,debit_card,5.0,2.5,5,2,Yes,2,No,No experience
+39,Gen X (45-59),34,Non-binary,Latin America,$100k-$250k,Employed,4924,5,2,5,2,1,2,3,3,5,1,5,4,1,3,digital_wallet,3.3,2.4,1,3,Yes,1,No,Regular user
+40,Millennial (30-44),39,Male,Latin America,<$25k,Retired,2601,3,5,1,4,5,5,2,1,3,4,5,1,2,4,crypto,2.8,4.9,5,2,Yes,1,No,Tried it
+41,Gen Z (14-29),38,Prefer not to say,North America,$50k-$100k,Unemployed,3707,1,2,2,3,4,3,1,5,3,2,1,3,4,3,bnpl,3.0,3.2,4,5,Yes,3,Yes,Heard of it
+42,Millennial (30-44),35,Non-binary,Europe,>$250k,Student,57,4,4,3,3,4,3,2,5,5,5,5,1,1,1,credit_card,4.0,2.7,3,4,Yes,5,No,Regular user
+43,Gen Z (14-29),72,Female,Asia-Pacific,$50k-$100k,Student,2605,5,3,2,4,2,1,3,4,4,3,4,5,2,1,crypto,2.7,2.5,5,1,Yes,3,Yes,Tried it
+44,Boomer (60+),40,Female,North America,$50k-$100k,Employed,525,1,2,4,1,3,3,1,4,5,1,4,4,5,3,crypto,4.7,4.0,4,3,Yes,4,No,Regular user
+45,Gen Z (14-29),62,Prefer not to say,Asia-Pacific,<$25k,Employed,2261,1,1,1,2,5,1,4,4,5,3,3,5,2,3,p2p_payment,4.9,3.8,2,2,No,3,Yes,Heard of it
+46,Gen X (45-59),26,Female,Latin America,<$25k,Retired,534,1,1,4,2,3,1,1,5,4,4,5,3,1,5,credit_card,3.1,3.9,4,4,Yes,1,No,Heard of it
+47,Gen Z (14-29),46,Female,Europe,<$25k,Retired,4704,1,5,4,1,3,2,4,2,4,2,5,4,3,2,crypto,3.6,2.3,2,2,No,5,Yes,Tried it
+48,Millennial (30-44),47,Prefer not to say,Asia-Pacific,$25k-$50k,Self-employed,2335,3,4,4,4,5,3,1,5,4,2,2,3,4,4,p2p_payment,2.6,4.7,5,4,No,5,Yes,Heard of it
+49,Millennial (30-44),54,Non-binary,Asia-Pacific,$100k-$250k,Retired,4613,3,5,1,2,4,1,3,3,4,5,1,5,5,1,crypto,4.1,3.2,2,5,Yes,3,Yes,Regular user
+50,Gen Z (14-29),48,Non-binary,Latin America,$25k-$50k,Self-employed,3575,3,5,1,4,5,2,3,5,4,2,3,3,2,4,bnpl,3.5,2.9,4,2,No,4,Yes,Tried it
+51,Alpha (1-13),14,Female,Asia-Pacific,$100k-$250k,Unemployed,3389,5,5,5,4,3,4,1,5,5,1,5,4,1,5,debit_card,3.2,3.4,3,5,No,1,No,Tried it
+52,Gen X (45-59),34,Female,Asia-Pacific,$100k-$250k,Employed,2872,5,1,2,3,4,2,2,1,2,4,2,4,1,1,p2p_payment,3.0,3.2,1,3,No,2,Yes,Regular user
+53,Boomer (60+),61,Non-binary,Latin America,$50k-$100k,Unemployed,4993,5,1,2,1,1,2,3,1,2,3,1,3,4,5,debit_card,4.1,4.6,1,5,Yes,5,Yes,No experience
+54,Boomer (60+),68,Prefer not to say,North America,$50k-$100k,Retired,2974,2,5,5,4,5,1,4,1,1,4,3,4,1,5,credit_card,3.5,4.8,3,4,Yes,3,Yes,Tried it
+55,Millennial (30-44),19,Female,Latin America,$100k-$250k,Unemployed,308,5,1,5,5,5,5,4,5,2,2,3,4,1,3,bnpl,2.9,2.9,1,3,No,4,No,No experience
+56,Boomer (60+),41,Male,North America,$100k-$250k,Unemployed,332,3,4,4,1,4,5,5,2,2,3,5,3,4,4,p2p_payment,4.2,4.6,5,2,Yes,4,No,Regular user
+57,Gen Z (14-29),30,Prefer not to say,Europe,$25k-$50k,Unemployed,1948,3,5,5,2,1,5,4,3,5,5,3,5,5,4,credit_card,3.9,4.3,5,2,Yes,1,Yes,Regular user
+58,Gen Z (14-29),18,Female,North America,$25k-$50k,Retired,4185,2,1,3,3,1,2,5,3,4,4,2,4,3,3,crypto,4.6,4.8,4,4,Yes,5,No,Tried it
+59,Gen Z (14-29),44,Female,North America,$50k-$100k,Unemployed,3026,2,2,2,2,4,1,1,2,4,3,3,4,3,4,digital_wallet,2.8,2.7,4,1,Yes,1,No,Heard of it
+60,Gen Z (14-29),18,Male,Europe,<$25k,Self-employed,2317,5,5,5,2,2,3,1,2,5,3,4,4,2,3,credit_card,4.5,3.7,2,1,Yes,2,Yes,Tried it
+61,Millennial (30-44),51,Male,North America,$100k-$250k,Retired,3250,4,5,3,1,5,2,1,3,2,3,2,4,5,1,debit_card,4.2,2.8,4,2,Yes,2,No,Heard of it
+62,Gen Z (14-29),16,Non-binary,Latin America,$25k-$50k,Unemployed,662,2,4,3,2,5,2,2,4,5,1,1,3,2,5,bnpl,2.8,4.5,5,4,No,2,Yes,No experience
+63,Boomer (60+),66,Prefer not to say,North America,$50k-$100k,Retired,737,1,3,3,4,3,1,2,1,1,4,1,5,3,5,bnpl,4.2,2.0,4,1,Yes,4,No,Heard of it
+64,Millennial (30-44),36,Prefer not to say,Europe,$25k-$50k,Student,3740,3,3,3,2,4,4,5,1,4,3,5,5,4,4,credit_card,3.6,3.7,1,5,No,5,Yes,Tried it
+65,Gen Z (14-29),50,Non-binary,Latin America,$100k-$250k,Self-employed,662,1,4,4,3,3,2,4,3,3,4,5,1,1,2,crypto,4.9,3.0,2,2,No,1,No,Heard of it
+66,Millennial (30-44),66,Prefer not to say,Europe,$100k-$250k,Unemployed,2357,3,4,3,3,3,4,4,2,1,3,4,4,3,5,digital_wallet,2.9,3.0,2,5,Yes,1,Yes,Regular user
+67,Gen Z (14-29),50,Prefer not to say,Europe,>$250k,Student,3063,3,4,4,5,1,4,1,4,1,5,1,4,5,3,debit_card,4.1,3.9,5,4,Yes,2,No,No experience
+68,Boomer (60+),23,Prefer not to say,Asia-Pacific,<$25k,Student,1831,2,3,4,3,5,5,3,3,5,5,1,1,3,2,credit_card,3.5,4.6,4,5,No,5,No,Regular user
+69,Gen Z (14-29),23,Prefer not to say,Asia-Pacific,>$250k,Retired,2641,2,4,3,2,3,1,2,1,2,5,1,5,5,2,credit_card,4.9,3.8,1,1,Yes,5,Yes,Regular user
+70,Alpha (1-13),32,Prefer not to say,Europe,$50k-$100k,Student,2746,1,1,2,3,1,4,2,5,4,2,1,2,5,5,bnpl,3.3,4.6,4,1,No,3,No,Regular user
+71,Gen X (45-59),30,Male,Europe,$25k-$50k,Self-employed,4008,3,5,3,1,4,1,1,2,3,3,3,2,5,5,debit_card,4.9,2.8,3,3,Yes,5,Yes,Regular user
+72,Gen Z (14-29),34,Prefer not to say,Europe,$50k-$100k,Self-employed,624,1,5,3,3,3,5,2,5,1,2,2,5,2,5,digital_wallet,4.8,3.6,4,2,Yes,5,No,Heard of it
+73,Gen Z (14-29),27,Male,Asia-Pacific,$100k-$250k,Employed,1960,4,2,3,4,5,1,1,3,3,4,2,4,4,3,bnpl,3.2,3.4,5,4,Yes,1,Yes,Regular user
+74,Boomer (60+),22,Prefer not to say,Asia-Pacific,>$250k,Self-employed,3654,1,2,2,1,3,2,5,1,2,2,4,2,3,2,credit_card,4.5,2.0,4,2,Yes,5,Yes,Heard of it
+75,Gen X (45-59),59,Non-binary,North America,>$250k,Student,719,5,5,1,5,4,4,4,4,2,4,3,3,4,4,bnpl,5.0,3.7,2,5,Yes,5,No,Regular user
+76,Gen X (45-59),14,Female,North America,>$250k,Self-employed,4414,1,1,1,4,3,1,3,5,3,4,1,3,1,3,bnpl,3.1,4.0,1,4,Yes,1,No,Tried it
+77,Gen X (45-59),64,Male,Europe,$50k-$100k,Retired,1333,5,3,4,2,5,3,4,4,4,4,1,1,3,1,p2p_payment,3.6,3.8,5,4,No,5,No,Regular user
+78,Gen Z (14-29),58,Prefer not to say,Latin America,$100k-$250k,Employed,973,5,3,4,2,1,1,4,1,2,2,5,5,4,5,bnpl,3.8,4.2,3,1,Yes,1,Yes,Tried it
+79,Millennial (30-44),26,Non-binary,Latin America,$25k-$50k,Student,1175,5,1,2,2,5,4,5,5,3,3,5,5,4,2,crypto,3.2,3.7,1,5,No,3,Yes,Heard of it
+80,Gen Z (14-29),17,Female,Asia-Pacific,$25k-$50k,Employed,1579,4,3,5,4,1,5,2,4,1,2,4,2,1,3,bnpl,2.5,2.2,1,1,Yes,4,No,No experience
+81,Boomer (60+),14,Male,Asia-Pacific,$50k-$100k,Student,1644,1,4,1,4,2,5,3,4,3,3,1,4,5,1,crypto,3.1,2.3,2,1,Yes,1,No,Heard of it
+82,Gen X (45-59),62,Female,Asia-Pacific,>$250k,Retired,296,1,5,4,4,5,4,2,5,3,3,4,5,3,3,debit_card,3.2,3.8,2,3,Yes,1,Yes,No experience
+83,Gen Z (14-29),53,Non-binary,Europe,<$25k,Employed,3761,4,5,1,1,5,2,4,1,5,4,3,2,3,3,bnpl,3.6,2.8,2,1,No,5,Yes,No experience
+84,Gen Z (14-29),45,Male,Latin America,$50k-$100k,Unemployed,1610,3,1,2,1,4,2,1,4,2,2,2,2,1,4,digital_wallet,2.9,2.2,5,2,Yes,1,Yes,Regular user
+85,Gen Z (14-29),47,Female,North America,$50k-$100k,Student,2450,2,3,2,2,3,5,4,3,4,3,1,5,5,4,crypto,4.7,3.3,4,4,Yes,2,Yes,No experience
+86,Gen Z (14-29),41,Prefer not to say,Europe,$100k-$250k,Unemployed,2293,1,2,5,3,1,5,2,5,4,5,3,2,3,3,crypto,4.3,3.7,1,1,No,2,Yes,Heard of it
+87,Gen X (45-59),44,Male,North America,$25k-$50k,Employed,3914,2,2,5,2,1,4,4,2,5,3,1,1,3,1,credit_card,2.7,3.0,4,2,Yes,3,Yes,Regular user
+88,Gen X (45-59),21,Female,North America,$50k-$100k,Unemployed,1989,4,3,2,5,4,2,1,2,4,5,5,1,3,2,debit_card,4.1,4.2,4,5,Yes,1,No,No experience
+89,Boomer (60+),52,Non-binary,Europe,$50k-$100k,Unemployed,3119,3,2,4,1,4,5,5,1,3,2,4,5,5,2,bnpl,4.1,3.9,2,4,Yes,5,No,Heard of it
+90,Millennial (30-44),39,Non-binary,North America,>$250k,Employed,276,3,1,1,4,3,2,2,3,5,2,5,4,1,5,digital_wallet,4.9,3.0,4,5,No,5,Yes,No experience
+91,Gen Z (14-29),71,Male,Latin America,>$250k,Retired,3597,3,1,3,1,3,5,4,4,1,2,2,1,3,5,credit_card,2.5,4.3,1,2,Yes,4,Yes,No experience
+92,Gen X (45-59),47,Female,North America,<$25k,Unemployed,314,4,3,5,4,5,1,2,2,2,3,5,1,4,2,debit_card,3.1,3.9,1,5,Yes,3,Yes,Regular user
+93,Gen X (45-59),67,Male,Latin America,$100k-$250k,Unemployed,1445,5,2,3,5,2,3,5,1,2,1,1,5,5,3,crypto,4.8,3.9,3,5,No,5,No,Regular user
+94,Millennial (30-44),67,Male,Latin America,<$25k,Retired,3607,5,1,4,5,3,1,4,3,2,3,5,3,2,3,digital_wallet,4.8,3.7,5,5,No,4,No,Heard of it
+95,Gen X (45-59),16,Female,Latin America,>$250k,Unemployed,695,2,1,5,1,4,5,4,3,3,3,1,2,1,4,bnpl,4.3,2.0,4,1,Yes,5,No,Regular user
+96,Millennial (30-44),72,Female,Asia-Pacific,$25k-$50k,Unemployed,3040,5,4,3,4,3,3,2,1,1,4,2,1,4,4,p2p_payment,4.4,4.1,5,1,Yes,4,No,Regular user
+97,Millennial (30-44),63,Prefer not to say,North America,>$250k,Unemployed,1949,5,4,4,5,1,3,2,1,5,4,5,3,3,5,p2p_payment,2.7,3.1,5,1,Yes,2,No,Tried it
+98,Millennial (30-44),25,Female,Europe,$100k-$250k,Self-employed,2554,3,1,1,2,2,5,1,4,5,3,4,4,2,2,debit_card,3.8,4.8,5,4,Yes,2,Yes,Tried it
+99,Gen Z (14-29),14,Non-binary,Europe,>$250k,Retired,2822,3,3,4,2,5,5,5,1,2,5,4,3,1,3,digital_wallet,3.1,4.5,5,2,No,5,Yes,Heard of it
+100,Gen Z (14-29),67,Male,North America,$100k-$250k,Unemployed,1204,2,5,5,4,1,2,1,4,1,4,4,5,5,2,credit_card,3.0,3.8,1,1,Yes,3,No,Regular user
+101,Gen Z (14-29),57,Male,Asia-Pacific,$100k-$250k,Retired,637,1,5,2,1,1,5,4,4,1,3,5,4,2,1,digital_wallet,4.5,2.8,4,5,Yes,1,Yes,Heard of it
+102,Gen X (45-59),18,Non-binary,Asia-Pacific,$100k-$250k,Student,4621,2,1,1,5,2,4,2,5,1,1,5,4,2,2,crypto,2.8,2.6,3,5,Yes,3,No,Tried it
+103,Gen Z (14-29),43,Female,Latin America,$100k-$250k,Student,1871,2,1,3,1,5,5,4,3,4,5,5,3,4,1,p2p_payment,3.7,3.0,5,5,Yes,3,No,Tried it
+104,Millennial (30-44),43,Non-binary,North America,$100k-$250k,Unemployed,1035,4,1,5,2,4,4,4,3,4,2,1,5,1,4,debit_card,4.8,3.4,3,5,Yes,1,No,Tried it
+105,Boomer (60+),72,Non-binary,North America,$25k-$50k,Retired,4129,4,3,2,5,5,5,3,3,2,3,2,1,4,4,bnpl,3.0,2.9,1,3,Yes,2,Yes,Heard of it
+106,Gen Z (14-29),70,Prefer not to say,Europe,<$25k,Retired,3398,2,4,4,1,3,2,3,5,1,3,4,3,4,5,digital_wallet,4.9,3.5,1,4,Yes,2,No,Regular user
+107,Millennial (30-44),30,Non-binary,North America,$50k-$100k,Retired,3881,2,1,2,3,1,4,4,4,1,5,1,1,3,2,p2p_payment,5.0,2.5,2,2,Yes,1,No,No experience
+108,Gen X (45-59),61,Male,Asia-Pacific,<$25k,Self-employed,1291,2,1,5,4,3,1,2,4,5,4,4,3,5,2,credit_card,3.9,4.9,5,2,Yes,4,No,Regular user
+109,Gen Z (14-29),60,Non-binary,North America,$100k-$250k,Student,239,5,2,5,4,4,4,4,1,5,4,1,1,2,1,debit_card,2.9,2.3,2,1,Yes,3,No,Heard of it
+110,Gen Z (14-29),36,Male,Europe,$25k-$50k,Retired,1030,4,3,2,3,3,2,3,5,2,4,5,3,1,4,bnpl,3.3,4.8,3,3,No,5,No,Tried it
+111,Gen Z (14-29),28,Male,Latin America,>$250k,Retired,1748,2,1,4,2,5,4,2,1,1,2,4,4,5,1,digital_wallet,3.6,4.7,4,2,Yes,2,Yes,No experience
+112,Gen Z (14-29),50,Male,Europe,$25k-$50k,Self-employed,1765,3,2,2,5,3,5,4,5,2,5,5,2,5,4,credit_card,3.3,3.6,2,4,Yes,5,No,Heard of it
+113,Boomer (60+),34,Female,Europe,$100k-$250k,Self-employed,2643,3,5,5,4,4,5,5,1,5,5,4,4,1,1,bnpl,3.2,4.2,1,5,No,1,Yes,Tried it
+114,Boomer (60+),27,Prefer not to say,Latin America,$25k-$50k,Retired,4186,5,1,5,3,4,2,5,2,5,4,3,1,5,4,crypto,4.9,3.3,5,1,Yes,5,Yes,Heard of it
+115,Gen X (45-59),15,Male,Europe,$25k-$50k,Employed,4483,5,1,3,3,4,3,4,3,4,4,1,5,3,1,p2p_payment,2.9,3.9,3,4,Yes,5,No,No experience
+116,Boomer (60+),24,Male,Europe,$100k-$250k,Retired,1148,1,2,3,2,5,5,2,3,2,1,3,4,5,4,crypto,4.3,3.0,1,2,Yes,3,No,Tried it
+117,Boomer (60+),64,Female,North America,$25k-$50k,Retired,2376,1,3,1,2,4,1,4,4,2,1,1,2,3,1,p2p_payment,2.5,2.9,4,3,No,1,Yes,Regular user
+118,Gen Z (14-29),52,Male,North America,$50k-$100k,Self-employed,3297,1,1,5,1,1,2,4,2,1,3,2,1,2,2,credit_card,4.0,3.7,5,1,Yes,5,Yes,Heard of it
+119,Boomer (60+),51,Non-binary,Latin America,$50k-$100k,Self-employed,945,5,5,3,4,4,4,3,3,1,3,4,4,2,5,crypto,4.8,3.5,4,2,No,2,Yes,No experience
+120,Millennial (30-44),73,Non-binary,North America,$25k-$50k,Retired,1724,5,1,2,1,3,4,5,4,4,5,2,3,4,1,p2p_payment,3.2,3.7,4,1,Yes,1,No,Regular user
+121,Boomer (60+),47,Prefer not to say,North America,>$250k,Retired,2959,5,5,4,3,3,1,3,2,3,5,2,5,3,5,debit_card,3.0,2.9,5,2,Yes,2,Yes,No experience
+122,Boomer (60+),51,Male,Europe,$100k-$250k,Retired,980,3,4,2,5,3,5,3,3,3,2,1,1,2,2,credit_card,4.1,3.1,5,5,No,4,Yes,Heard of it
+123,Gen Z (14-29),63,Female,Asia-Pacific,$50k-$100k,Self-employed,4434,5,4,4,5,5,2,4,1,3,2,3,4,5,2,p2p_payment,4.3,2.3,4,3,No,5,Yes,No experience
+124,Gen Z (14-29),47,Non-binary,North America,>$250k,Retired,773,3,5,3,2,3,1,3,5,2,1,5,1,1,4,digital_wallet,4.2,2.2,3,5,Yes,1,No,Tried it
+125,Gen Z (14-29),31,Female,Asia-Pacific,$25k-$50k,Retired,2990,1,3,1,5,5,5,5,2,2,3,1,3,1,5,p2p_payment,3.3,2.8,5,2,No,2,No,No experience
+126,Millennial (30-44),43,Female,North America,>$250k,Unemployed,1139,1,1,2,5,5,2,3,4,5,1,5,2,3,3,crypto,3.1,2.2,1,4,Yes,5,Yes,Heard of it
+127,Boomer (60+),28,Non-binary,North America,<$25k,Employed,4628,1,1,2,5,4,4,5,2,2,1,2,4,4,4,debit_card,4.9,2.3,2,5,Yes,3,No,Tried it
+128,Boomer (60+),40,Female,Latin America,$50k-$100k,Student,985,2,4,2,3,1,2,3,4,2,3,5,1,5,5,bnpl,4.8,4.4,3,4,Yes,2,Yes,No experience
+129,Gen Z (14-29),64,Non-binary,Latin America,$25k-$50k,Employed,2345,2,5,4,5,4,3,5,2,2,2,3,1,3,1,bnpl,3.6,2.1,5,2,Yes,2,No,No experience
+130,Millennial (30-44),47,Female,Latin America,$100k-$250k,Unemployed,205,4,1,3,5,4,2,3,4,4,3,1,1,1,1,p2p_payment,4.6,4.0,5,3,Yes,4,No,Tried it
+131,Millennial (30-44),65,Non-binary,Asia-Pacific,$25k-$50k,Student,1120,4,1,2,5,5,3,3,3,2,4,3,2,3,2,bnpl,3.6,2.8,3,4,Yes,3,Yes,Regular user
+132,Gen Z (14-29),70,Male,Europe,$100k-$250k,Retired,2008,4,3,2,1,5,2,2,1,1,4,3,1,5,3,p2p_payment,3.6,4.6,2,2,Yes,4,Yes,Regular user
+133,Gen Z (14-29),51,Prefer not to say,North America,$25k-$50k,Unemployed,2551,2,2,1,3,3,3,5,3,1,4,1,5,2,1,debit_card,2.9,3.5,4,4,Yes,3,No,Tried it
+134,Gen Z (14-29),46,Non-binary,North America,>$250k,Retired,4269,2,4,1,2,3,4,5,1,5,5,3,5,5,5,bnpl,3.6,2.9,1,5,No,2,Yes,No experience
+135,Boomer (60+),37,Non-binary,North America,>$250k,Self-employed,3880,4,4,3,1,4,5,5,3,4,2,4,1,2,5,crypto,3.8,3.6,5,2,No,4,No,Regular user
+136,Gen Z (14-29),28,Prefer not to say,Asia-Pacific,>$250k,Unemployed,904,4,2,3,4,2,3,1,3,1,2,4,5,2,1,crypto,2.6,3.1,2,5,No,5,Yes,Tried it
+137,Millennial (30-44),73,Non-binary,Latin America,<$25k,Self-employed,689,5,1,5,3,2,3,3,2,4,5,4,4,2,5,digital_wallet,3.6,3.7,1,1,Yes,3,Yes,Heard of it
+138,Gen X (45-59),43,Non-binary,Europe,$100k-$250k,Unemployed,2288,4,3,1,3,3,4,5,5,4,1,5,5,3,5,p2p_payment,4.5,2.3,3,2,Yes,2,No,No experience
+139,Millennial (30-44),68,Female,Asia-Pacific,>$250k,Unemployed,1652,5,3,5,4,2,3,1,4,5,4,3,1,1,2,bnpl,4.2,5.0,5,4,Yes,1,No,Heard of it
+140,Alpha (1-13),55,Prefer not to say,Latin America,<$25k,Self-employed,491,3,4,4,4,3,1,2,4,4,4,1,3,3,3,crypto,4.1,3.3,4,1,No,3,No,No experience
+141,Alpha (1-13),64,Male,Asia-Pacific,$100k-$250k,Student,4678,2,3,5,4,5,4,5,4,2,1,1,4,1,2,debit_card,4.8,3.0,3,5,Yes,3,Yes,Regular user
+142,Gen Z (14-29),30,Non-binary,Europe,$25k-$50k,Employed,1386,4,2,2,2,4,1,5,1,4,3,5,2,5,3,debit_card,2.5,4.1,5,5,No,5,No,Heard of it
+143,Millennial (30-44),18,Prefer not to say,Latin America,<$25k,Retired,3750,2,1,5,5,1,4,1,4,5,3,1,1,4,5,digital_wallet,3.9,3.1,2,4,No,3,No,Heard of it
+144,Gen Z (14-29),42,Female,Asia-Pacific,$50k-$100k,Unemployed,998,2,2,3,3,4,3,3,4,5,2,4,2,5,3,debit_card,4.5,4.5,1,1,No,3,No,Tried it
+145,Gen Z (14-29),17,Male,Europe,<$25k,Retired,3423,2,5,4,5,3,1,2,2,5,5,3,3,3,5,debit_card,3.9,3.4,1,3,Yes,5,No,Regular user
+146,Gen Z (14-29),23,Prefer not to say,North America,<$25k,Self-employed,509,3,4,2,5,3,3,5,3,1,2,1,2,3,5,bnpl,3.3,4.2,5,4,Yes,5,Yes,Regular user
+147,Gen X (45-59),69,Male,Europe,$100k-$250k,Retired,4696,1,3,5,4,4,4,3,4,2,3,1,1,1,2,p2p_payment,2.8,2.3,3,5,Yes,4,No,No experience
+148,Millennial (30-44),30,Male,North America,$25k-$50k,Self-employed,442,4,5,4,2,3,3,2,5,1,1,2,1,3,2,credit_card,4.7,4.5,4,2,Yes,2,No,Tried it
+149,Gen Z (14-29),23,Male,Asia-Pacific,$50k-$100k,Retired,3988,1,3,4,1,2,1,4,4,3,2,2,3,2,4,debit_card,3.7,4.2,2,1,Yes,2,Yes,Tried it
+150,Gen Z (14-29),30,Non-binary,Latin America,>$250k,Employed,1837,1,1,2,2,2,1,4,1,2,4,2,1,3,1,debit_card,4.7,2.6,5,3,Yes,4,No,No experience
+151,Boomer (60+),73,Non-binary,Latin America,>$250k,Employed,4990,1,1,5,5,3,3,2,1,4,4,3,3,1,4,credit_card,4.0,2.4,2,2,No,2,Yes,Heard of it
+152,Gen Z (14-29),33,Female,Asia-Pacific,<$25k,Employed,2307,2,1,4,2,3,2,1,1,5,1,4,3,1,4,debit_card,4.2,2.9,1,1,Yes,3,Yes,No experience
+153,Gen Z (14-29),37,Female,Latin America,$100k-$250k,Employed,1188,5,3,4,4,2,4,2,4,3,3,4,1,2,3,bnpl,4.5,4.9,4,4,Yes,4,No,No experience
+154,Millennial (30-44),18,Prefer not to say,Latin America,$100k-$250k,Employed,3858,2,5,1,1,3,4,2,2,2,4,4,5,1,5,bnpl,4.1,2.8,2,4,Yes,4,Yes,No experience
+155,Alpha (1-13),47,Female,North America,>$250k,Employed,4791,2,1,4,4,3,3,1,5,1,4,3,3,4,5,credit_card,3.5,3.4,5,1,Yes,2,Yes,Tried it
+156,Gen Z (14-29),19,Male,Asia-Pacific,$50k-$100k,Self-employed,2504,1,5,1,1,4,2,1,4,5,5,3,1,5,5,crypto,3.8,2.1,4,3,No,1,No,No experience
+157,Gen X (45-59),66,Male,Europe,$25k-$50k,Unemployed,1516,2,3,5,5,1,1,3,2,1,2,2,5,3,1,debit_card,4.5,3.2,3,1,Yes,2,No,No experience
+158,Gen X (45-59),15,Non-binary,North America,$50k-$100k,Retired,3724,1,5,5,1,2,5,3,2,2,3,1,3,4,3,crypto,3.4,3.7,5,2,Yes,1,No,No experience
+159,Gen Z (14-29),26,Male,Asia-Pacific,$25k-$50k,Employed,1427,5,3,5,1,4,5,1,4,2,2,5,5,3,3,debit_card,3.5,4.9,2,2,Yes,4,No,Regular user
+160,Gen X (45-59),56,Prefer not to say,North America,>$250k,Self-employed,2647,4,3,3,1,1,3,4,4,3,3,5,4,4,5,p2p_payment,2.7,3.6,4,4,Yes,1,Yes,Heard of it
+161,Millennial (30-44),56,Male,Europe,$25k-$50k,Self-employed,191,1,4,5,2,3,2,4,2,4,4,1,4,3,4,debit_card,4.8,4.5,5,1,No,3,No,Heard of it
+162,Gen X (45-59),61,Male,Europe,$100k-$250k,Self-employed,2709,5,3,4,2,3,2,2,2,1,5,2,5,2,1,bnpl,2.7,3.6,4,4,Yes,5,No,Heard of it
+163,Gen X (45-59),24,Prefer not to say,Asia-Pacific,<$25k,Unemployed,4646,4,3,2,5,4,4,5,2,3,2,1,3,1,4,digital_wallet,4.1,2.1,4,3,Yes,1,Yes,Heard of it
+164,Millennial (30-44),64,Female,Europe,<$25k,Retired,889,3,2,1,1,3,1,2,4,5,4,1,1,1,2,digital_wallet,3.5,2.9,4,2,Yes,5,No,Tried it
+165,Gen Z (14-29),60,Female,North America,>$250k,Unemployed,3668,1,1,3,3,5,2,2,2,4,3,5,2,2,3,digital_wallet,3.5,3.7,2,5,Yes,3,Yes,Tried it
+166,Boomer (60+),70,Prefer not to say,Europe,$100k-$250k,Student,3967,1,4,5,5,4,5,5,1,3,2,2,1,4,3,digital_wallet,4.2,4.9,5,5,Yes,5,Yes,No experience
+167,Gen Z (14-29),36,Non-binary,North America,$50k-$100k,Self-employed,645,3,4,5,1,1,1,1,4,1,2,3,2,5,4,crypto,2.7,4.6,1,1,No,3,No,Tried it
+168,Gen Z (14-29),68,Male,North America,$100k-$250k,Student,1954,3,4,2,1,4,1,4,1,2,4,5,2,4,1,crypto,4.0,2.7,1,1,Yes,5,No,Heard of it
+169,Gen Z (14-29),29,Prefer not to say,Europe,<$25k,Employed,330,1,2,2,2,2,3,2,3,5,2,3,3,1,3,debit_card,4.4,2.7,2,5,No,5,Yes,Regular user
+170,Millennial (30-44),44,Male,Asia-Pacific,<$25k,Employed,473,3,3,3,5,4,2,5,4,1,5,2,5,5,4,crypto,4.6,2.6,2,1,Yes,2,Yes,No experience
+171,Gen X (45-59),24,Non-binary,Latin America,$100k-$250k,Unemployed,4415,2,1,1,1,3,3,3,3,4,5,1,1,3,1,debit_card,2.9,4.8,4,2,Yes,1,No,No experience
+172,Gen Z (14-29),67,Male,Europe,$100k-$250k,Retired,4299,4,5,5,1,3,2,2,2,4,4,4,5,5,4,p2p_payment,4.7,4.6,5,3,Yes,5,Yes,Heard of it
+173,Millennial (30-44),29,Prefer not to say,North America,<$25k,Student,1800,4,3,3,5,5,4,4,2,2,3,4,4,4,1,debit_card,4.1,4.3,5,3,Yes,4,Yes,Heard of it
+174,Gen Z (14-29),21,Male,North America,$50k-$100k,Retired,4807,4,2,4,3,5,3,1,5,2,4,2,3,2,5,digital_wallet,4.7,3.2,3,4,Yes,2,No,Heard of it
+175,Gen X (45-59),17,Female,Europe,>$250k,Unemployed,2017,2,3,4,5,5,3,2,2,5,5,4,3,3,1,credit_card,3.7,3.5,3,2,Yes,1,No,Tried it
+176,Gen Z (14-29),53,Non-binary,Asia-Pacific,>$250k,Employed,4138,3,3,3,5,1,5,2,3,5,1,3,4,4,2,credit_card,3.9,3.4,1,1,Yes,2,No,No experience
+177,Gen X (45-59),17,Non-binary,Asia-Pacific,$100k-$250k,Retired,4228,5,2,5,3,5,3,5,2,2,1,4,1,3,5,bnpl,4.8,2.8,3,1,No,1,No,Heard of it
+178,Millennial (30-44),69,Non-binary,North America,>$250k,Retired,2996,3,4,3,5,1,2,3,4,2,2,2,4,5,4,bnpl,4.7,3.5,3,4,Yes,3,No,Regular user
+179,Boomer (60+),38,Prefer not to say,North America,<$25k,Employed,1499,1,4,5,1,5,5,3,2,4,2,2,1,1,5,debit_card,3.6,2.1,1,4,No,5,No,No experience
+180,Gen Z (14-29),16,Non-binary,Asia-Pacific,<$25k,Student,2381,4,1,2,5,1,3,1,5,2,1,3,2,4,5,credit_card,3.2,2.4,1,1,Yes,4,Yes,No experience
+181,Gen Z (14-29),45,Female,Latin America,$100k-$250k,Employed,2270,3,1,3,3,4,3,4,2,3,5,4,3,2,4,digital_wallet,3.5,4.7,3,1,Yes,2,No,Tried it
+182,Gen Z (14-29),16,Prefer not to say,Europe,$100k-$250k,Retired,3839,5,4,5,4,4,4,1,3,1,2,4,1,5,4,crypto,3.5,4.3,5,2,Yes,2,No,No experience
+183,Boomer (60+),40,Female,North America,$100k-$250k,Student,2860,1,5,3,5,3,3,2,3,2,4,1,5,4,2,digital_wallet,3.2,3.3,3,4,Yes,2,Yes,Heard of it
+184,Boomer (60+),42,Male,North America,$50k-$100k,Student,4778,2,3,3,2,1,1,2,2,5,4,5,5,2,4,digital_wallet,3.2,3.6,4,2,No,2,Yes,Heard of it
+185,Gen Z (14-29),45,Male,Asia-Pacific,>$250k,Employed,1581,2,5,5,1,2,5,3,3,3,5,2,3,4,3,debit_card,4.7,3.1,4,1,Yes,5,No,Regular user
+186,Gen X (45-59),63,Male,Europe,$100k-$250k,Retired,4932,5,3,5,1,3,1,4,3,5,2,1,4,5,3,debit_card,2.7,4.2,4,5,Yes,1,Yes,No experience
+187,Boomer (60+),74,Male,Asia-Pacific,$25k-$50k,Unemployed,3040,1,4,1,2,4,5,5,5,3,4,2,4,4,2,p2p_payment,4.2,4.4,2,5,Yes,5,Yes,No experience
+188,Millennial (30-44),71,Female,Europe,$25k-$50k,Retired,4543,4,1,3,2,1,4,4,4,2,2,1,1,3,1,digital_wallet,2.9,4.3,4,1,Yes,3,No,Tried it
+189,Millennial (30-44),64,Prefer not to say,Europe,<$25k,Self-employed,1193,3,1,4,5,5,3,2,5,1,2,5,4,5,1,digital_wallet,3.4,4.2,5,4,Yes,5,No,Heard of it
+190,Gen Z (14-29),32,Prefer not to say,Europe,>$250k,Unemployed,983,1,5,3,2,2,3,5,1,5,4,1,3,4,3,debit_card,2.7,2.6,2,5,No,5,No,Regular user
+191,Gen Z (14-29),34,Non-binary,North America,$100k-$250k,Student,1510,2,1,3,4,4,3,4,5,3,1,2,1,1,4,debit_card,3.2,3.0,2,4,Yes,3,Yes,Heard of it
+192,Boomer (60+),18,Female,Latin America,$25k-$50k,Unemployed,2773,5,4,5,3,3,5,4,2,4,4,4,2,4,2,p2p_payment,4.4,3.4,4,5,No,5,Yes,No experience
+193,Boomer (60+),31,Male,Asia-Pacific,>$250k,Student,2562,5,5,3,2,1,3,5,4,2,5,2,4,3,1,p2p_payment,4.7,3.0,3,4,No,1,No,No experience
+194,Gen X (45-59),41,Female,Latin America,<$25k,Student,335,3,3,3,2,2,1,2,2,1,3,3,4,2,1,bnpl,3.1,4.3,1,5,Yes,4,Yes,Regular user
+195,Gen Z (14-29),55,Non-binary,Asia-Pacific,$50k-$100k,Unemployed,314,5,1,4,4,1,3,4,1,2,4,3,1,2,5,credit_card,3.7,3.0,3,4,Yes,3,No,No experience
+196,Gen Z (14-29),74,Non-binary,Europe,>$250k,Student,2417,5,2,5,1,5,4,5,4,4,2,3,5,2,3,digital_wallet,3.7,2.4,3,2,Yes,2,Yes,Regular user
+197,Gen X (45-59),35,Female,North America,>$250k,Student,3497,1,1,3,1,3,1,2,3,1,2,3,4,1,4,digital_wallet,4.7,3.2,2,4,Yes,1,No,Regular user
+198,Boomer (60+),34,Female,Latin America,$50k-$100k,Self-employed,4966,4,3,2,5,1,3,5,5,4,4,5,3,3,2,p2p_payment,4.4,4.9,2,2,Yes,4,No,Heard of it
+199,Boomer (60+),19,Female,North America,>$250k,Retired,1812,3,5,1,4,4,3,5,2,2,3,4,4,5,1,p2p_payment,3.8,2.7,2,2,No,1,Yes,Regular user
+200,Gen X (45-59),14,Prefer not to say,Asia-Pacific,<$25k,Retired,3098,1,3,4,3,3,2,4,1,3,4,4,2,2,5,bnpl,4.2,3.8,5,1,Yes,1,No,No experience
+201,Gen X (45-59),18,Male,North America,<$25k,Self-employed,2431,4,2,3,3,4,5,2,3,2,3,2,4,3,3,credit_card,4.6,3.3,5,2,Yes,2,Yes,Tried it
+202,Gen Z (14-29),54,Female,North America,$50k-$100k,Unemployed,2319,1,4,2,4,1,1,4,5,2,3,1,5,4,3,bnpl,2.5,2.2,1,3,Yes,4,Yes,Tried it
+203,Gen Z (14-29),25,Female,Latin America,$100k-$250k,Employed,90,1,1,3,3,3,2,1,3,2,5,2,4,1,2,credit_card,3.5,3.5,2,2,Yes,1,No,No experience
+204,Boomer (60+),39,Female,Europe,$25k-$50k,Employed,117,5,5,3,1,4,4,1,5,5,2,2,1,3,1,crypto,4.8,4.1,4,4,No,2,Yes,Tried it
+205,Gen X (45-59),59,Non-binary,North America,$100k-$250k,Employed,1037,4,4,5,3,5,5,2,4,4,2,2,4,3,2,digital_wallet,4.4,3.5,2,2,Yes,3,No,Tried it
+206,Gen Z (14-29),47,Non-binary,Europe,>$250k,Self-employed,4058,3,3,5,3,5,1,5,3,4,3,2,5,5,2,bnpl,3.9,4.6,5,4,Yes,2,Yes,Regular user
+207,Gen Z (14-29),62,Prefer not to say,Asia-Pacific,$25k-$50k,Self-employed,3248,3,5,5,4,1,3,4,3,4,2,4,1,3,5,p2p_payment,3.8,2.9,2,4,Yes,5,Yes,Tried it
+208,Gen X (45-59),27,Male,North America,$50k-$100k,Student,4840,4,4,2,4,3,1,4,3,5,1,1,3,5,3,bnpl,3.4,2.3,5,3,No,2,Yes,Tried it
+209,Gen Z (14-29),39,Prefer not to say,Latin America,$50k-$100k,Employed,2574,5,5,3,3,2,3,2,4,3,3,2,1,1,4,crypto,3.8,4.8,2,2,Yes,2,No,Tried it
+210,Gen Z (14-29),58,Male,Asia-Pacific,$25k-$50k,Unemployed,1135,2,2,1,2,3,5,2,1,2,2,4,2,1,3,bnpl,4.1,3.1,4,2,No,2,No,Heard of it
+211,Millennial (30-44),40,Non-binary,Asia-Pacific,<$25k,Unemployed,2529,1,2,4,4,5,3,1,5,3,1,2,1,4,3,digital_wallet,3.5,3.7,1,5,Yes,1,Yes,No experience
+212,Gen X (45-59),22,Non-binary,Latin America,$25k-$50k,Employed,1743,5,1,5,5,4,4,3,3,5,5,3,3,5,5,crypto,4.3,4.4,4,5,Yes,4,Yes,Regular user
+213,Gen X (45-59),39,Non-binary,North America,>$250k,Employed,2365,4,1,5,5,2,3,2,4,4,2,2,4,5,4,p2p_payment,4.7,3.0,5,1,Yes,2,No,Tried it
+214,Gen Z (14-29),70,Prefer not to say,North America,<$25k,Employed,828,1,2,3,1,1,4,3,1,2,1,2,1,2,1,p2p_payment,2.9,4.1,3,4,Yes,2,No,No experience
+215,Gen X (45-59),60,Female,Asia-Pacific,$50k-$100k,Self-employed,4639,3,5,3,3,2,5,2,5,1,4,5,1,2,4,debit_card,3.6,2.4,4,3,Yes,5,No,Tried it
+216,Gen Z (14-29),70,Female,North America,$25k-$50k,Self-employed,1635,2,2,2,2,1,5,5,4,1,4,3,1,4,1,crypto,3.5,2.9,2,5,Yes,5,No,Heard of it
+217,Gen Z (14-29),35,Non-binary,Europe,$100k-$250k,Self-employed,1542,3,1,2,1,2,1,5,5,3,1,1,1,1,4,debit_card,4.2,2.4,1,2,Yes,3,No,Heard of it
+218,Gen X (45-59),60,Female,Latin America,$100k-$250k,Retired,710,4,2,5,3,1,4,1,3,4,3,2,3,2,2,debit_card,3.1,4.4,2,1,Yes,3,Yes,Tried it
+219,Gen X (45-59),69,Female,Europe,>$250k,Unemployed,1398,1,2,3,4,1,4,1,1,1,3,1,5,3,4,digital_wallet,4.1,2.7,2,3,Yes,5,Yes,Tried it
+220,Boomer (60+),43,Prefer not to say,North America,$100k-$250k,Unemployed,1349,4,5,1,5,2,2,3,4,3,2,3,5,1,5,bnpl,4.7,4.2,4,2,Yes,4,Yes,Tried it
+221,Gen X (45-59),56,Male,Asia-Pacific,$25k-$50k,Student,3990,1,4,4,2,2,2,2,1,5,4,2,1,3,1,p2p_payment,3.5,4.8,1,2,Yes,3,No,Heard of it
+222,Millennial (30-44),61,Non-binary,Latin America,$25k-$50k,Self-employed,2036,5,1,3,5,1,2,4,3,3,3,5,3,5,3,p2p_payment,4.8,3.6,3,4,Yes,4,No,Heard of it
+223,Gen Z (14-29),74,Non-binary,North America,$100k-$250k,Retired,2094,2,5,3,4,5,3,1,1,3,3,4,3,1,5,bnpl,5.0,3.6,2,4,Yes,5,No,No experience
+224,Millennial (30-44),30,Prefer not to say,North America,$25k-$50k,Retired,3566,5,2,2,3,2,2,4,1,3,4,5,1,4,1,p2p_payment,2.8,3.4,1,5,Yes,3,Yes,Regular user
+225,Gen Z (14-29),39,Prefer not to say,Asia-Pacific,>$250k,Unemployed,1108,5,2,4,4,3,4,4,2,2,5,5,2,5,1,bnpl,3.1,3.0,3,5,Yes,2,No,Regular user
+226,Gen Z (14-29),49,Female,Asia-Pacific,<$25k,Self-employed,1026,4,4,5,4,4,3,2,1,3,3,4,1,5,3,crypto,4.9,3.4,2,2,No,5,No,Heard of it
+227,Alpha (1-13),14,Non-binary,Europe,>$250k,Student,4627,2,1,3,5,1,5,3,5,3,1,4,2,3,2,digital_wallet,4.9,3.8,1,2,Yes,3,No,Regular user
+228,Millennial (30-44),21,Male,Latin America,>$250k,Self-employed,777,1,1,5,2,1,1,2,4,2,2,4,1,5,5,digital_wallet,2.7,5.0,4,5,Yes,4,Yes,Tried it
+229,Boomer (60+),62,Prefer not to say,Latin America,$25k-$50k,Employed,2577,1,3,3,4,4,2,1,2,2,3,2,2,2,3,digital_wallet,2.5,4.8,2,5,No,4,No,No experience
+230,Gen X (45-59),48,Male,Asia-Pacific,<$25k,Self-employed,3186,3,1,5,5,5,5,4,4,5,3,1,2,1,3,bnpl,2.9,4.6,2,2,No,3,Yes,Heard of it
+231,Gen X (45-59),74,Male,Europe,$25k-$50k,Employed,392,1,4,4,2,4,4,2,4,4,5,1,1,2,2,bnpl,5.0,4.7,1,3,Yes,4,No,Heard of it
+232,Millennial (30-44),65,Non-binary,Latin America,$50k-$100k,Employed,1497,4,3,2,3,2,1,2,3,1,1,4,2,3,5,credit_card,2.9,3.4,2,2,No,3,No,Regular user
+233,Millennial (30-44),28,Non-binary,Asia-Pacific,$25k-$50k,Student,2429,5,3,4,3,4,5,2,3,1,2,5,4,3,3,p2p_payment,3.8,4.0,3,3,Yes,3,Yes,Tried it
+234,Millennial (30-44),60,Prefer not to say,North America,$25k-$50k,Unemployed,3709,5,2,1,1,1,1,1,2,3,3,3,5,1,2,p2p_payment,4.6,4.7,2,3,Yes,4,No,No experience
+235,Gen Z (14-29),69,Non-binary,Latin America,$25k-$50k,Self-employed,576,5,2,2,5,4,2,3,3,5,2,4,3,5,5,credit_card,2.6,3.2,5,2,Yes,1,Yes,Regular user
+236,Gen X (45-59),35,Non-binary,Europe,<$25k,Employed,1946,2,1,4,2,3,4,2,3,3,4,5,2,4,4,credit_card,4.0,4.9,3,1,Yes,2,No,Heard of it
+237,Gen Z (14-29),27,Non-binary,Europe,$25k-$50k,Self-employed,4804,1,3,1,4,2,1,1,3,1,3,5,2,3,1,digital_wallet,3.2,3.2,1,5,Yes,5,Yes,Heard of it
+238,Gen Z (14-29),39,Male,Europe,<$25k,Unemployed,2123,4,2,3,3,4,5,4,4,2,3,2,3,1,2,credit_card,4.7,3.8,3,4,No,2,No,Regular user
+239,Gen X (45-59),41,Prefer not to say,North America,$100k-$250k,Unemployed,4965,2,4,3,2,1,2,5,2,4,4,2,2,4,1,bnpl,3.2,4.1,5,2,No,5,No,Tried it
+240,Gen Z (14-29),36,Female,Latin America,$50k-$100k,Retired,455,3,2,5,5,2,2,1,4,5,5,1,3,5,4,debit_card,4.2,4.9,5,3,Yes,5,Yes,No experience
+241,Boomer (60+),27,Male,Latin America,<$25k,Unemployed,1623,4,2,2,1,1,5,5,5,2,3,1,1,3,3,bnpl,4.2,2.7,2,2,Yes,2,No,No experience
+242,Alpha (1-13),37,Non-binary,North America,$100k-$250k,Student,4650,4,3,3,3,5,5,2,4,4,2,3,4,1,3,credit_card,3.1,4.2,2,5,Yes,3,No,No experience
+243,Boomer (60+),15,Male,Latin America,<$25k,Employed,3790,4,3,2,2,3,1,2,5,5,1,3,4,1,5,p2p_payment,2.6,3.6,4,3,Yes,4,Yes,No experience
+244,Millennial (30-44),58,Non-binary,North America,<$25k,Retired,4324,5,5,3,2,5,3,1,1,5,2,3,5,1,2,bnpl,3.5,2.8,3,4,Yes,1,No,Tried it
+245,Gen Z (14-29),39,Non-binary,North America,$50k-$100k,Student,4277,4,4,5,2,3,2,5,1,1,5,3,2,3,2,p2p_payment,3.2,4.3,4,4,Yes,1,No,Heard of it
+246,Boomer (60+),27,Male,North America,>$250k,Self-employed,1896,1,3,4,5,4,1,2,5,2,1,5,5,4,5,bnpl,4.5,3.7,5,4,No,1,No,Heard of it
+247,Millennial (30-44),72,Prefer not to say,Europe,>$250k,Employed,1528,4,1,5,5,2,5,4,5,5,2,5,1,1,1,p2p_payment,4.5,4.0,2,1,Yes,2,No,No experience
+248,Alpha (1-13),69,Non-binary,Latin America,<$25k,Unemployed,2445,5,4,1,5,4,1,3,4,5,2,1,4,5,3,crypto,3.6,3.0,2,3,Yes,2,No,No experience
+249,Alpha (1-13),64,Prefer not to say,North America,$25k-$50k,Employed,821,4,4,3,4,3,5,3,5,4,4,2,1,1,3,bnpl,4.0,3.4,2,3,Yes,3,No,No experience
+250,Boomer (60+),20,Female,Latin America,$100k-$250k,Self-employed,628,3,3,1,2,3,4,2,2,1,5,2,1,4,2,p2p_payment,4.0,3.9,1,1,Yes,1,No,Regular user
+251,Gen Z (14-29),16,Non-binary,Europe,$25k-$50k,Retired,2951,3,4,1,3,3,5,5,1,3,4,4,2,3,2,debit_card,4.6,3.2,5,3,No,3,No,Regular user
+252,Millennial (30-44),60,Prefer not to say,North America,$25k-$50k,Retired,243,5,3,2,5,1,5,2,1,1,1,5,1,1,5,digital_wallet,3.6,2.6,2,1,Yes,1,Yes,Heard of it
+253,Boomer (60+),36,Prefer not to say,Asia-Pacific,<$25k,Retired,2057,1,2,3,5,2,5,5,5,3,4,3,4,1,4,bnpl,3.2,4.9,5,2,Yes,2,No,Heard of it
+254,Gen Z (14-29),59,Female,Europe,<$25k,Unemployed,1235,1,5,1,2,4,3,4,3,2,5,3,5,5,1,debit_card,3.2,3.5,2,5,Yes,4,No,No experience
+255,Gen Z (14-29),56,Prefer not to say,Asia-Pacific,<$25k,Student,2444,2,2,4,5,4,5,5,3,2,3,4,4,5,4,digital_wallet,3.8,4.2,3,4,Yes,4,No,Regular user
+256,Millennial (30-44),60,Prefer not to say,Latin America,<$25k,Student,3048,5,3,1,4,5,2,2,5,5,3,2,2,1,4,bnpl,3.6,3.2,5,1,Yes,4,No,Tried it
+257,Boomer (60+),73,Female,Latin America,>$250k,Employed,1842,4,3,4,4,3,2,4,2,2,1,3,4,1,2,debit_card,3.6,3.1,4,1,Yes,4,Yes,Regular user
+258,Gen X (45-59),58,Non-binary,Europe,<$25k,Unemployed,1160,5,2,2,5,3,1,1,3,5,3,2,3,5,2,debit_card,2.7,3.2,1,1,Yes,5,No,Heard of it
+259,Millennial (30-44),31,Prefer not to say,Latin America,>$250k,Retired,4055,2,1,1,2,3,3,3,5,1,4,4,5,4,2,crypto,4.3,3.2,4,2,Yes,1,No,Regular user
+260,Gen Z (14-29),71,Prefer not to say,Asia-Pacific,>$250k,Retired,2311,5,1,5,2,4,1,2,2,2,1,2,3,2,4,debit_card,3.0,3.6,5,1,Yes,4,No,Heard of it
+261,Gen X (45-59),51,Prefer not to say,North America,<$25k,Self-employed,3786,5,1,2,2,5,2,2,2,1,5,2,3,2,1,crypto,3.0,3.6,2,5,Yes,5,Yes,No experience
+262,Alpha (1-13),48,Male,North America,$50k-$100k,Self-employed,3843,2,3,4,1,1,2,2,4,1,1,2,2,1,2,credit_card,3.5,3.5,5,5,Yes,5,Yes,Tried it
+263,Gen Z (14-29),64,Female,North America,$100k-$250k,Retired,1986,1,4,2,5,2,4,4,2,2,1,3,1,5,3,p2p_payment,3.1,2.4,1,4,Yes,5,No,No experience
+264,Millennial (30-44),28,Male,Europe,$25k-$50k,Retired,4925,4,3,1,2,1,5,1,3,1,2,1,3,3,1,digital_wallet,4.0,3.5,5,2,No,3,No,No experience
+265,Boomer (60+),38,Female,Latin America,>$250k,Unemployed,4407,2,4,3,4,4,2,5,3,2,2,5,4,3,3,p2p_payment,3.4,2.5,2,5,Yes,3,Yes,Tried it
+266,Gen X (45-59),68,Non-binary,Asia-Pacific,$100k-$250k,Student,779,3,2,3,3,3,1,1,5,2,1,2,1,2,1,p2p_payment,3.6,2.4,4,3,Yes,5,Yes,Tried it
+267,Gen X (45-59),50,Non-binary,Latin America,$50k-$100k,Self-employed,4428,1,5,4,3,2,1,4,5,2,3,2,4,4,2,crypto,3.8,4.8,3,3,Yes,4,Yes,Tried it
+268,Gen X (45-59),41,Prefer not to say,Latin America,$25k-$50k,Student,3501,3,4,4,2,4,5,2,2,3,2,2,4,2,5,p2p_payment,3.0,3.8,4,3,Yes,1,Yes,Heard of it
+269,Millennial (30-44),23,Female,Latin America,$25k-$50k,Unemployed,4507,1,1,3,3,4,5,3,1,1,5,1,1,1,2,debit_card,2.9,4.0,2,1,Yes,2,Yes,No experience
+270,Gen Z (14-29),52,Non-binary,North America,>$250k,Retired,4586,4,3,4,3,4,4,2,4,4,4,4,1,4,4,crypto,4.7,3.2,2,1,No,3,No,Heard of it
+271,Boomer (60+),70,Female,Asia-Pacific,<$25k,Student,2190,4,2,2,1,2,3,5,1,2,2,3,4,3,4,p2p_payment,3.6,4.7,1,3,Yes,4,No,Tried it
+272,Boomer (60+),30,Non-binary,Asia-Pacific,$50k-$100k,Retired,1694,5,1,5,4,2,1,3,2,1,1,1,2,5,1,crypto,3.5,3.9,5,4,Yes,4,Yes,Heard of it
+273,Boomer (60+),52,Male,Latin America,>$250k,Retired,2850,3,2,5,4,5,5,2,2,5,3,2,5,5,4,credit_card,2.6,4.3,5,4,Yes,2,No,Tried it
+274,Boomer (60+),35,Non-binary,North America,$50k-$100k,Employed,191,1,5,2,1,5,1,3,1,2,4,1,5,1,2,crypto,3.7,3.1,4,1,No,2,Yes,Regular user
+275,Millennial (30-44),39,Male,North America,<$25k,Student,1505,4,3,5,1,1,5,1,4,2,2,1,2,2,3,bnpl,3.9,4.9,3,3,Yes,4,Yes,Tried it
+276,Millennial (30-44),57,Non-binary,Asia-Pacific,<$25k,Student,4846,2,3,1,3,2,2,4,1,4,3,1,1,1,2,debit_card,3.9,4.5,3,4,Yes,2,Yes,No experience
+277,Gen X (45-59),38,Prefer not to say,North America,>$250k,Retired,2146,4,5,2,5,2,1,2,5,3,3,4,4,5,1,digital_wallet,4.3,4.6,1,1,No,4,No,No experience
+278,Gen X (45-59),30,Male,North America,<$25k,Unemployed,1375,2,3,4,3,2,2,5,3,3,3,5,5,3,4,bnpl,2.9,2.5,2,3,Yes,2,Yes,No experience
+279,Gen X (45-59),26,Non-binary,North America,$100k-$250k,Employed,1263,1,4,2,1,5,1,1,5,2,1,3,4,5,3,bnpl,3.1,2.8,1,2,Yes,2,No,Heard of it
+280,Gen X (45-59),33,Prefer not to say,Europe,$25k-$50k,Retired,1209,4,2,3,4,4,3,2,3,1,5,4,2,4,5,bnpl,4.5,2.9,5,3,Yes,4,Yes,No experience
+281,Boomer (60+),38,Male,Latin America,>$250k,Self-employed,4700,4,1,4,3,3,4,1,2,5,3,4,4,5,3,p2p_payment,4.9,2.8,2,3,Yes,5,Yes,Tried it
+282,Gen Z (14-29),17,Prefer not to say,Asia-Pacific,$50k-$100k,Self-employed,4549,1,5,3,5,5,2,5,4,5,4,5,2,5,3,crypto,2.8,4.6,1,5,Yes,4,Yes,Regular user
+283,Millennial (30-44),23,Female,Asia-Pacific,$100k-$250k,Employed,4747,4,4,4,3,2,5,2,1,1,2,4,1,4,2,crypto,3.7,2.1,4,5,Yes,1,No,No experience
+284,Gen Z (14-29),16,Female,Europe,>$250k,Unemployed,390,2,1,5,2,5,3,5,4,2,4,1,2,2,5,p2p_payment,3.0,2.2,5,2,Yes,2,No,Heard of it
+285,Millennial (30-44),54,Male,Latin America,<$25k,Retired,3878,4,1,2,3,1,1,3,1,5,1,1,2,5,1,debit_card,2.7,2.8,3,2,No,3,No,Regular user
+286,Gen Z (14-29),58,Non-binary,Asia-Pacific,<$25k,Student,2018,3,5,1,1,2,2,5,5,3,1,2,5,1,1,p2p_payment,3.3,2.6,1,3,No,2,Yes,No experience
+287,Millennial (30-44),31,Male,North America,<$25k,Employed,753,5,4,4,4,1,1,3,5,1,4,4,4,5,3,p2p_payment,2.9,2.7,5,4,Yes,1,Yes,No experience
+288,Millennial (30-44),60,Prefer not to say,Asia-Pacific,<$25k,Unemployed,4463,2,1,4,4,2,1,2,1,4,5,2,5,1,3,p2p_payment,4.3,4.4,5,2,Yes,3,Yes,Regular user
+289,Gen Z (14-29),49,Non-binary,North America,$50k-$100k,Student,2479,3,1,3,1,5,1,3,4,2,1,3,3,4,4,debit_card,3.8,3.7,3,3,Yes,3,Yes,No experience
+290,Millennial (30-44),60,Female,Europe,$100k-$250k,Self-employed,1850,1,4,5,2,4,4,2,1,1,1,1,2,5,5,debit_card,2.9,2.0,3,1,No,4,No,Heard of it
+291,Gen Z (14-29),35,Non-binary,North America,$25k-$50k,Self-employed,4962,2,3,3,1,3,4,2,2,5,4,3,3,4,3,credit_card,2.5,3.3,3,5,Yes,5,Yes,Tried it
+292,Gen Z (14-29),47,Female,Asia-Pacific,$50k-$100k,Student,4698,5,1,3,3,1,5,4,5,2,1,5,5,4,4,credit_card,4.5,3.2,1,4,Yes,4,Yes,Tried it
+293,Boomer (60+),60,Non-binary,Asia-Pacific,$50k-$100k,Employed,905,5,2,5,1,5,2,2,2,3,5,1,4,2,5,credit_card,2.9,2.3,3,3,Yes,3,No,Regular user
+294,Millennial (30-44),21,Non-binary,Asia-Pacific,$25k-$50k,Self-employed,1862,1,4,1,1,4,3,3,5,2,5,3,5,5,1,credit_card,4.0,4.0,4,1,Yes,3,No,Tried it
+295,Gen Z (14-29),53,Non-binary,Europe,$25k-$50k,Retired,2916,1,1,3,2,5,3,4,5,2,5,5,4,1,4,crypto,3.3,4.1,5,5,Yes,5,No,No experience
+296,Millennial (30-44),62,Prefer not to say,Europe,<$25k,Student,3692,2,5,3,3,1,3,4,3,3,2,3,4,1,5,bnpl,4.0,4.2,3,1,Yes,2,Yes,No experience
+297,Gen X (45-59),57,Prefer not to say,Latin America,$50k-$100k,Student,232,4,2,4,5,3,1,2,2,3,5,5,1,5,4,bnpl,3.3,4.2,5,3,Yes,5,No,Heard of it
+298,Gen Z (14-29),32,Male,Asia-Pacific,>$250k,Self-employed,3162,1,1,5,5,5,4,5,2,2,5,5,2,2,3,credit_card,2.7,2.0,2,2,No,4,Yes,Tried it
+299,Gen X (45-59),55,Male,North America,$25k-$50k,Employed,4542,4,2,2,4,2,2,5,3,3,2,1,5,2,2,credit_card,3.1,4.9,2,5,Yes,2,No,Regular user
+300,Gen Z (14-29),54,Female,Europe,$25k-$50k,Retired,1567,3,2,1,1,4,1,4,4,1,3,2,4,2,1,digital_wallet,3.0,4.4,3,1,Yes,4,No,No experience
+301,Gen Z (14-29),50,Prefer not to say,Asia-Pacific,$100k-$250k,Employed,1406,5,3,1,4,5,4,2,2,3,1,5,5,1,3,bnpl,3.6,4.7,5,2,Yes,5,No,Regular user
+302,Millennial (30-44),19,Female,Asia-Pacific,>$250k,Unemployed,2224,4,2,5,2,4,4,5,1,3,5,5,5,4,3,digital_wallet,4.1,2.0,2,4,Yes,2,Yes,No experience
+303,Millennial (30-44),65,Male,Europe,>$250k,Unemployed,3679,5,3,4,5,2,2,2,3,2,1,1,4,2,5,digital_wallet,3.2,4.8,3,3,No,5,No,No experience
+304,Gen X (45-59),39,Female,Latin America,$25k-$50k,Self-employed,3678,4,4,4,1,3,2,2,2,1,4,2,3,1,4,p2p_payment,2.5,4.4,5,3,Yes,1,Yes,Heard of it
+305,Gen X (45-59),47,Male,Europe,<$25k,Self-employed,4146,3,3,5,2,3,2,4,4,4,1,4,2,1,1,crypto,3.8,4.5,3,5,No,3,No,Tried it
+306,Alpha (1-13),72,Prefer not to say,Europe,$100k-$250k,Self-employed,3289,1,5,4,2,2,1,4,2,4,2,4,2,4,3,debit_card,4.0,2.3,5,1,Yes,2,No,Heard of it
+307,Millennial (30-44),69,Non-binary,North America,>$250k,Unemployed,3741,3,1,1,1,4,5,1,5,5,1,2,1,5,5,bnpl,4.9,4.2,2,4,Yes,3,No,Tried it
+308,Gen Z (14-29),72,Prefer not to say,North America,$25k-$50k,Employed,68,1,4,1,2,5,2,5,1,3,1,3,1,5,1,credit_card,4.0,4.9,3,5,Yes,1,No,Regular user
+309,Gen X (45-59),58,Female,Latin America,>$250k,Employed,3453,1,4,2,1,2,5,5,3,3,1,1,1,2,4,credit_card,3.7,4.0,2,5,No,2,No,Tried it
+310,Gen Z (14-29),19,Female,Asia-Pacific,$100k-$250k,Self-employed,4729,5,5,5,1,1,1,5,5,1,3,2,2,2,3,debit_card,3.9,3.7,3,1,Yes,3,Yes,Regular user
+311,Millennial (30-44),50,Prefer not to say,Europe,$100k-$250k,Retired,4601,3,3,3,3,4,5,3,4,4,3,4,3,4,3,bnpl,4.8,4.8,1,4,Yes,3,No,No experience
+312,Gen Z (14-29),70,Prefer not to say,Latin America,$50k-$100k,Employed,3054,4,1,3,4,3,3,2,5,5,4,5,2,2,3,credit_card,4.6,3.3,2,1,No,2,No,Regular user
+313,Gen Z (14-29),46,Male,North America,$25k-$50k,Unemployed,1182,3,3,2,2,2,5,4,5,1,2,4,2,4,1,credit_card,3.3,3.8,2,3,Yes,3,No,Regular user
+314,Alpha (1-13),66,Female,Europe,$100k-$250k,Student,3389,5,2,2,2,3,2,5,4,3,1,5,2,1,1,p2p_payment,3.1,3.4,4,2,Yes,3,No,No experience
+315,Boomer (60+),35,Female,Asia-Pacific,$50k-$100k,Student,3361,1,3,4,3,4,1,1,5,4,1,1,2,2,1,digital_wallet,3.2,4.8,2,3,Yes,2,No,Regular user
+316,Gen X (45-59),34,Prefer not to say,North America,$50k-$100k,Student,3422,5,4,2,3,3,2,5,3,5,1,5,3,1,1,credit_card,3.8,2.2,5,3,No,3,Yes,Regular user
+317,Millennial (30-44),19,Non-binary,North America,>$250k,Retired,1037,2,1,2,3,2,3,2,2,2,1,2,1,3,5,crypto,4.4,3.5,3,5,Yes,3,No,No experience
+318,Gen Z (14-29),19,Female,North America,>$250k,Self-employed,3371,2,3,3,5,4,2,2,5,4,3,5,5,4,2,bnpl,3.8,4.1,1,3,No,4,Yes,No experience
+319,Gen Z (14-29),68,Non-binary,Latin America,$50k-$100k,Unemployed,4665,4,1,4,5,1,2,4,3,5,4,3,1,3,5,crypto,2.7,4.4,5,4,Yes,4,No,No experience
+320,Gen Z (14-29),61,Prefer not to say,Asia-Pacific,>$250k,Retired,223,5,1,2,5,2,2,3,2,1,5,2,1,2,3,debit_card,4.3,3.7,5,3,No,1,No,Tried it
+321,Millennial (30-44),17,Prefer not to say,Europe,$100k-$250k,Unemployed,3791,4,2,2,1,5,4,4,2,2,2,1,5,1,5,p2p_payment,4.5,4.7,5,4,Yes,4,Yes,No experience
+322,Gen X (45-59),43,Male,Latin America,<$25k,Unemployed,3102,4,2,4,2,2,3,5,5,5,1,2,2,2,4,bnpl,3.2,4.8,5,1,Yes,4,No,No experience
+323,Gen X (45-59),24,Female,Latin America,$100k-$250k,Self-employed,776,2,4,5,4,4,2,1,3,5,4,3,3,3,1,p2p_payment,4.2,2.2,1,5,No,1,No,Regular user
+324,Gen Z (14-29),43,Non-binary,Latin America,$50k-$100k,Student,3810,4,5,4,1,2,2,4,5,3,5,1,3,2,4,digital_wallet,3.6,3.2,4,4,No,3,No,Heard of it
+325,Alpha (1-13),44,Male,North America,$50k-$100k,Self-employed,1925,2,1,3,2,1,2,3,4,4,4,4,1,5,4,credit_card,4.7,2.1,2,3,Yes,3,Yes,Heard of it
+326,Gen X (45-59),37,Female,Asia-Pacific,$100k-$250k,Retired,4083,1,5,5,2,1,1,4,2,3,3,3,5,3,3,bnpl,4.6,3.0,5,5,Yes,4,Yes,Tried it
+327,Millennial (30-44),68,Male,Latin America,>$250k,Retired,1039,5,4,1,3,5,4,2,5,2,5,1,4,2,1,debit_card,3.8,3.6,2,5,No,1,No,Tried it
+328,Gen X (45-59),22,Prefer not to say,Europe,>$250k,Retired,3794,4,1,4,3,3,1,5,2,5,4,5,2,1,4,digital_wallet,4.2,4.7,2,4,Yes,3,Yes,Heard of it
+329,Millennial (30-44),68,Female,Asia-Pacific,$50k-$100k,Self-employed,2736,2,1,3,1,4,4,5,3,3,3,2,1,2,3,digital_wallet,4.7,4.5,5,4,Yes,5,No,Heard of it
+330,Gen Z (14-29),16,Male,Europe,$25k-$50k,Unemployed,469,3,5,5,3,4,2,5,1,4,4,1,3,1,1,p2p_payment,3.7,2.4,4,2,No,2,No,No experience
+331,Millennial (30-44),64,Male,Asia-Pacific,>$250k,Unemployed,643,4,3,4,2,3,3,5,5,2,4,2,5,5,2,digital_wallet,3.3,2.3,2,2,Yes,2,Yes,Regular user
+332,Gen X (45-59),44,Non-binary,Europe,$100k-$250k,Employed,1824,1,2,2,3,1,5,5,5,1,5,5,5,2,3,bnpl,4.4,3.8,3,5,Yes,2,No,No experience
+333,Gen Z (14-29),53,Male,North America,>$250k,Retired,2509,1,3,4,5,1,5,5,2,3,3,1,1,5,5,p2p_payment,3.1,3.6,2,2,No,4,No,Tried it
+334,Gen Z (14-29),50,Female,Latin America,$100k-$250k,Unemployed,985,3,5,1,3,2,2,1,3,2,1,4,4,3,1,digital_wallet,3.5,2.8,5,3,Yes,2,No,Heard of it
+335,Gen Z (14-29),49,Female,Europe,$50k-$100k,Employed,3858,2,2,4,2,5,1,3,4,1,2,3,3,1,4,debit_card,4.7,4.7,1,1,Yes,2,Yes,Tried it
+336,Gen Z (14-29),37,Non-binary,Asia-Pacific,>$250k,Unemployed,381,4,3,5,1,5,3,5,3,3,5,1,1,3,4,crypto,4.3,4.8,2,5,No,5,No,No experience
+337,Boomer (60+),44,Female,Latin America,$100k-$250k,Retired,3499,2,2,5,4,5,4,3,5,2,3,5,4,1,5,bnpl,3.5,3.2,4,1,Yes,3,Yes,Tried it
+338,Gen X (45-59),19,Prefer not to say,Latin America,$50k-$100k,Student,2752,1,1,4,3,2,2,5,4,2,4,1,5,5,5,debit_card,3.0,4.7,3,2,No,5,No,Tried it
+339,Millennial (30-44),15,Female,Asia-Pacific,$25k-$50k,Retired,4056,2,3,5,2,5,3,4,3,3,3,2,2,4,4,debit_card,3.4,3.2,3,4,No,4,Yes,Regular user
+340,Gen Z (14-29),33,Female,Europe,$100k-$250k,Self-employed,3918,1,2,2,4,3,3,5,1,2,2,1,3,2,1,p2p_payment,3.2,4.2,1,5,Yes,2,No,Tried it
+341,Millennial (30-44),41,Male,North America,$25k-$50k,Unemployed,4250,2,2,4,4,2,4,2,2,5,2,4,3,5,3,credit_card,2.9,3.4,1,2,Yes,3,No,No experience
+342,Millennial (30-44),24,Male,North America,$25k-$50k,Unemployed,251,3,2,2,5,3,3,1,3,3,1,1,4,1,5,p2p_payment,4.4,2.4,2,3,Yes,2,No,Regular user
+343,Gen Z (14-29),17,Female,Europe,<$25k,Self-employed,2547,5,3,2,4,2,1,4,3,2,1,3,1,1,5,bnpl,3.1,4.8,5,5,Yes,2,No,Tried it
+344,Millennial (30-44),28,Non-binary,Latin America,>$250k,Self-employed,1892,3,4,3,2,5,1,4,1,1,2,1,5,1,5,bnpl,3.6,3.4,4,5,Yes,4,Yes,No experience
+345,Millennial (30-44),19,Male,Latin America,$100k-$250k,Student,1916,3,3,4,2,3,1,2,5,1,5,2,4,1,2,p2p_payment,3.5,4.2,3,4,Yes,2,No,Heard of it
+346,Gen X (45-59),67,Non-binary,Latin America,$25k-$50k,Unemployed,2046,5,5,5,3,3,3,5,2,5,5,1,2,2,1,credit_card,5.0,3.1,1,5,Yes,1,Yes,Regular user
+347,Gen X (45-59),62,Female,Latin America,<$25k,Unemployed,959,5,3,2,3,3,1,1,3,3,4,4,2,3,1,p2p_payment,3.5,2.1,4,4,Yes,3,Yes,Tried it
+348,Gen Z (14-29),43,Female,Europe,$50k-$100k,Student,4355,4,2,3,3,2,4,4,4,2,1,5,2,4,1,bnpl,2.7,2.3,5,2,Yes,3,Yes,Tried it
+349,Millennial (30-44),69,Prefer not to say,Latin America,$100k-$250k,Employed,4708,4,1,4,4,4,3,1,3,2,4,1,4,2,1,credit_card,2.7,3.5,3,3,Yes,1,No,Regular user
+350,Gen X (45-59),51,Male,Asia-Pacific,$25k-$50k,Student,3239,3,3,4,4,5,5,4,2,1,1,1,5,1,1,bnpl,4.0,4.1,3,3,Yes,4,No,No experience
+351,Millennial (30-44),64,Female,Latin America,>$250k,Retired,820,3,3,1,5,3,3,5,3,5,2,3,3,2,4,credit_card,4.0,3.0,5,5,Yes,2,No,Tried it
+352,Boomer (60+),70,Prefer not to say,North America,<$25k,Unemployed,3205,1,2,1,3,4,4,4,1,1,5,4,1,5,5,credit_card,3.5,4.1,3,5,Yes,2,No,No experience
+353,Gen X (45-59),15,Male,Latin America,$25k-$50k,Self-employed,2551,1,1,2,1,5,5,4,3,1,5,5,3,1,4,p2p_payment,3.6,4.1,5,2,Yes,3,No,Regular user
+354,Gen Z (14-29),28,Female,Europe,>$250k,Retired,2764,4,1,1,5,5,3,3,3,5,2,2,5,4,2,p2p_payment,2.6,4.1,3,4,Yes,4,No,Tried it
+355,Gen Z (14-29),24,Female,North America,$25k-$50k,Unemployed,4774,4,5,2,1,3,1,5,4,3,4,1,3,1,3,p2p_payment,3.8,3.5,2,3,Yes,4,Yes,Heard of it
+356,Gen X (45-59),21,Male,Europe,$100k-$250k,Student,3635,1,3,5,4,3,2,2,1,2,4,5,4,4,5,credit_card,3.8,4.7,5,4,Yes,4,No,Heard of it
+357,Gen Z (14-29),39,Male,Europe,$100k-$250k,Retired,1678,1,1,2,5,2,2,2,1,3,3,2,2,4,2,credit_card,2.9,3.5,4,2,Yes,2,Yes,Heard of it
+358,Millennial (30-44),64,Male,North America,$100k-$250k,Unemployed,436,2,1,1,5,4,1,5,3,4,1,4,5,3,4,bnpl,2.8,3.4,2,3,Yes,4,Yes,Regular user
+359,Boomer (60+),58,Female,Europe,<$25k,Employed,3471,2,4,5,2,4,2,2,4,4,4,4,5,3,3,debit_card,2.8,2.6,4,3,Yes,1,No,Tried it
+360,Millennial (30-44),57,Female,Europe,$100k-$250k,Employed,4058,1,4,1,4,3,2,5,3,4,2,5,3,2,2,p2p_payment,2.8,2.9,3,1,Yes,5,No,Regular user
+361,Millennial (30-44),18,Prefer not to say,Latin America,>$250k,Self-employed,4143,2,1,2,4,5,1,2,3,5,4,2,4,2,3,crypto,4.0,2.1,4,2,No,4,No,Tried it
+362,Gen X (45-59),19,Non-binary,Asia-Pacific,$25k-$50k,Unemployed,4413,5,5,3,5,3,1,3,2,1,5,4,3,4,2,bnpl,3.0,3.9,2,2,Yes,5,Yes,Heard of it
+363,Millennial (30-44),39,Male,Europe,$50k-$100k,Employed,2516,4,1,4,4,5,3,2,2,3,1,5,3,1,4,bnpl,3.1,2.7,5,1,No,2,Yes,Heard of it
+364,Millennial (30-44),67,Female,Europe,>$250k,Student,2332,4,2,1,5,5,3,4,4,2,3,4,5,5,3,digital_wallet,2.9,2.9,1,4,Yes,4,No,No experience
+365,Boomer (60+),17,Female,Europe,>$250k,Unemployed,1906,1,3,2,2,3,1,5,5,4,1,4,3,5,2,p2p_payment,4.9,4.3,4,1,Yes,3,No,Regular user
+366,Millennial (30-44),32,Male,Latin America,$100k-$250k,Student,2048,3,5,5,5,1,4,1,2,3,5,4,2,1,4,bnpl,4.6,3.0,1,2,Yes,2,Yes,Regular user
+367,Alpha (1-13),33,Non-binary,Asia-Pacific,<$25k,Student,1286,1,2,1,4,4,2,1,5,4,5,3,3,1,5,digital_wallet,3.1,2.7,4,4,Yes,1,No,No experience
+368,Boomer (60+),46,Male,North America,$25k-$50k,Employed,4719,2,5,1,4,5,3,5,1,4,5,2,2,3,4,crypto,3.3,2.5,4,3,Yes,1,Yes,Heard of it
+369,Gen Z (14-29),33,Non-binary,Latin America,<$25k,Unemployed,4194,3,2,4,5,5,2,3,2,2,5,5,5,5,4,crypto,3.0,4.3,5,1,Yes,5,Yes,Heard of it
+370,Gen Z (14-29),62,Female,Latin America,$25k-$50k,Retired,1200,2,3,2,5,1,5,2,2,5,2,5,4,4,5,p2p_payment,3.7,2.4,3,4,Yes,5,Yes,Regular user
+371,Gen Z (14-29),25,Non-binary,Asia-Pacific,$25k-$50k,Employed,4368,5,3,3,5,2,1,3,4,1,3,2,2,2,4,credit_card,2.5,3.4,2,4,Yes,3,No,Tried it
+372,Gen Z (14-29),60,Prefer not to say,Asia-Pacific,<$25k,Employed,1481,2,4,5,3,1,4,1,5,5,5,2,4,3,5,digital_wallet,4.2,3.5,2,4,Yes,3,No,Heard of it
+373,Gen Z (14-29),14,Female,Latin America,>$250k,Unemployed,1869,5,2,2,4,1,5,5,2,3,5,2,4,5,5,credit_card,3.8,4.1,2,1,Yes,1,Yes,No experience
+374,Gen X (45-59),39,Prefer not to say,North America,$25k-$50k,Unemployed,2374,5,4,5,4,5,5,5,2,5,4,2,2,1,5,crypto,4.7,3.9,3,3,Yes,4,No,No experience
+375,Gen Z (14-29),27,Male,Latin America,<$25k,Student,1180,2,2,1,3,4,5,3,4,3,3,1,5,5,2,crypto,2.9,4.4,1,4,Yes,1,No,No experience
+376,Gen Z (14-29),51,Male,Asia-Pacific,$25k-$50k,Unemployed,2708,2,4,4,5,1,1,3,4,3,1,5,1,4,3,debit_card,4.5,2.1,2,1,No,1,No,Regular user
+377,Boomer (60+),50,Male,North America,$50k-$100k,Student,3550,5,3,4,2,2,3,2,5,1,3,1,4,3,2,debit_card,4.5,2.9,1,2,Yes,3,No,Regular user
+378,Gen Z (14-29),24,Non-binary,Asia-Pacific,>$250k,Employed,424,3,5,3,5,3,1,4,1,2,3,4,4,1,5,debit_card,2.8,2.8,3,1,Yes,5,Yes,Regular user
+379,Boomer (60+),49,Female,North America,$100k-$250k,Self-employed,2170,5,4,4,5,1,3,4,1,1,3,4,5,4,3,debit_card,3.5,2.4,3,1,Yes,3,No,Regular user
+380,Gen Z (14-29),26,Male,Europe,$25k-$50k,Retired,4070,4,2,1,3,1,5,2,3,5,5,5,5,2,3,bnpl,2.9,2.9,5,1,No,3,No,No experience
+381,Gen Z (14-29),56,Male,Asia-Pacific,$50k-$100k,Employed,2071,5,2,3,4,2,5,4,2,3,5,4,3,3,5,debit_card,3.1,2.9,2,4,Yes,3,Yes,No experience
+382,Gen X (45-59),16,Female,Asia-Pacific,$100k-$250k,Unemployed,3755,3,3,2,5,4,4,1,5,4,2,2,5,4,3,bnpl,3.2,3.6,5,1,Yes,1,No,Regular user
+383,Gen X (45-59),46,Male,Latin America,$100k-$250k,Retired,3309,4,2,4,4,1,3,4,2,4,1,1,4,4,3,bnpl,3.9,4.0,2,2,Yes,4,No,Regular user
+384,Boomer (60+),19,Prefer not to say,Asia-Pacific,$25k-$50k,Self-employed,3485,1,1,3,1,1,5,2,5,3,4,2,2,1,2,p2p_payment,3.5,3.1,3,4,Yes,1,No,No experience
+385,Gen X (45-59),63,Female,Asia-Pacific,<$25k,Self-employed,1939,1,5,1,4,4,2,4,5,1,3,4,1,2,3,bnpl,4.9,4.2,3,2,Yes,2,No,Regular user
+386,Boomer (60+),69,Female,Europe,$25k-$50k,Student,1873,3,4,5,2,2,4,5,5,2,1,1,3,4,5,bnpl,2.8,3.0,4,5,Yes,3,Yes,Regular user
+387,Gen Z (14-29),23,Female,Asia-Pacific,$50k-$100k,Retired,1524,5,5,5,2,1,1,3,2,1,1,2,2,3,1,debit_card,4.9,2.9,4,1,No,3,No,Regular user
+388,Gen Z (14-29),18,Prefer not to say,Europe,$100k-$250k,Student,2292,2,3,1,5,4,4,1,4,3,2,5,1,4,1,bnpl,3.1,3.6,3,4,Yes,2,Yes,Regular user
+389,Gen X (45-59),36,Female,Europe,$25k-$50k,Employed,3293,3,4,1,4,1,2,5,2,3,4,2,1,5,1,credit_card,4.4,2.1,3,4,Yes,3,Yes,Heard of it
+390,Boomer (60+),23,Prefer not to say,Europe,<$25k,Retired,3184,4,4,5,5,3,3,5,5,2,3,4,1,3,5,debit_card,3.3,2.2,1,1,Yes,3,No,Regular user
+391,Alpha (1-13),57,Female,Europe,$25k-$50k,Employed,2120,4,1,3,3,5,1,2,3,5,4,1,2,3,1,digital_wallet,2.9,3.3,1,3,Yes,3,No,No experience
+392,Millennial (30-44),15,Non-binary,North America,>$250k,Student,409,1,3,5,2,3,1,3,1,5,2,5,3,4,2,debit_card,4.6,4.8,5,3,Yes,2,No,No experience
+393,Millennial (30-44),26,Male,Latin America,<$25k,Retired,2091,4,2,1,5,1,3,3,5,2,5,1,3,1,5,bnpl,3.3,4.2,4,2,Yes,1,Yes,No experience
+394,Gen X (45-59),53,Non-binary,North America,$50k-$100k,Student,1191,3,1,4,3,2,4,1,3,5,1,5,1,3,5,credit_card,4.1,2.3,4,1,Yes,3,No,No experience
+395,Gen Z (14-29),15,Male,Asia-Pacific,$100k-$250k,Retired,1685,4,1,2,5,5,5,2,4,4,3,1,2,5,5,debit_card,3.9,4.5,3,1,Yes,4,No,Regular user
+396,Boomer (60+),33,Prefer not to say,North America,$25k-$50k,Student,4050,3,5,4,4,3,4,1,5,5,5,4,1,1,3,credit_card,3.7,4.2,3,5,Yes,2,No,Heard of it
+397,Boomer (60+),14,Non-binary,North America,<$25k,Self-employed,1993,2,5,4,4,4,2,4,3,5,2,5,5,1,3,digital_wallet,3.7,3.8,5,3,Yes,5,No,Tried it
+398,Millennial (30-44),50,Female,Asia-Pacific,>$250k,Student,4824,1,5,1,4,2,5,5,5,5,4,3,3,1,3,crypto,4.3,4.5,4,3,Yes,2,No,Tried it
+399,Gen X (45-59),22,Male,Asia-Pacific,<$25k,Self-employed,3411,4,1,5,4,3,4,1,2,4,1,1,4,3,4,digital_wallet,2.7,3.2,1,1,Yes,1,No,Tried it
+400,Gen X (45-59),30,Male,Asia-Pacific,>$250k,Student,3030,3,2,3,1,4,3,5,3,5,3,1,1,1,2,crypto,4.2,2.7,2,2,No,2,Yes,Tried it
+401,Gen Z (14-29),22,Non-binary,North America,$50k-$100k,Retired,56,5,4,4,3,1,2,2,2,4,5,2,5,4,5,p2p_payment,4.7,3.5,5,1,Yes,5,Yes,No experience
+402,Boomer (60+),24,Prefer not to say,North America,$100k-$250k,Retired,3317,1,5,5,3,4,2,4,2,2,5,5,3,1,5,crypto,2.6,3.6,2,2,Yes,4,No,Regular user
+403,Millennial (30-44),28,Non-binary,Asia-Pacific,$50k-$100k,Retired,1641,2,2,3,4,3,2,2,3,1,1,3,2,5,3,p2p_payment,2.9,3.6,1,3,No,5,No,Regular user
+404,Boomer (60+),37,Prefer not to say,Latin America,$25k-$50k,Unemployed,4978,3,3,4,1,3,5,4,1,2,4,4,3,2,5,debit_card,4.3,3.7,1,5,Yes,2,Yes,Tried it
+405,Gen Z (14-29),51,Prefer not to say,Latin America,<$25k,Employed,3314,2,5,3,4,1,1,4,3,1,2,2,2,5,5,p2p_payment,3.6,4.8,2,4,No,5,No,Tried it
+406,Boomer (60+),68,Male,Europe,>$250k,Retired,2656,2,4,5,1,4,5,5,1,2,4,3,2,3,1,credit_card,3.5,4.7,5,3,Yes,2,No,Heard of it
+407,Millennial (30-44),48,Non-binary,Asia-Pacific,>$250k,Self-employed,3269,4,3,2,4,4,4,2,5,1,4,5,1,1,5,p2p_payment,2.8,4.6,2,2,Yes,4,No,Heard of it
+408,Gen Z (14-29),43,Non-binary,Europe,<$25k,Retired,3323,4,3,5,2,1,1,2,5,1,4,3,1,1,4,credit_card,3.8,4.4,5,1,Yes,4,Yes,Heard of it
+409,Boomer (60+),44,Prefer not to say,Latin America,<$25k,Unemployed,963,3,4,1,2,4,4,1,3,3,1,1,3,4,3,crypto,2.8,4.8,5,3,No,1,No,No experience
+410,Gen Z (14-29),62,Non-binary,Europe,$25k-$50k,Self-employed,2061,5,5,3,5,1,1,2,5,1,1,1,5,1,2,crypto,3.7,2.3,3,5,Yes,4,No,Regular user
+411,Gen Z (14-29),18,Female,Asia-Pacific,$50k-$100k,Unemployed,1492,3,1,2,4,2,5,1,4,1,2,2,3,5,2,crypto,4.4,2.8,4,2,No,3,Yes,No experience
+412,Alpha (1-13),73,Female,Asia-Pacific,>$250k,Self-employed,3104,5,4,3,3,3,2,3,2,3,4,5,4,3,1,p2p_payment,3.1,3.5,4,1,Yes,5,Yes,No experience
+413,Alpha (1-13),57,Non-binary,Asia-Pacific,$25k-$50k,Student,3596,2,4,3,5,2,3,3,2,5,1,5,2,2,2,crypto,3.7,4.5,1,4,No,5,No,Regular user
+414,Millennial (30-44),63,Non-binary,North America,$50k-$100k,Employed,4271,1,4,4,2,5,2,3,1,5,2,3,2,1,2,p2p_payment,5.0,3.5,3,2,Yes,2,No,Heard of it
+415,Gen X (45-59),27,Prefer not to say,Europe,$25k-$50k,Employed,4962,3,3,1,4,5,5,2,5,3,2,2,1,2,3,p2p_payment,4.2,4.2,4,1,Yes,4,No,Regular user
+416,Millennial (30-44),66,Female,Latin America,>$250k,Unemployed,2978,3,2,3,5,5,1,2,1,4,4,5,5,1,3,bnpl,4.6,2.4,5,4,No,1,No,Tried it
+417,Gen Z (14-29),69,Female,Latin America,<$25k,Employed,1879,5,1,5,4,1,2,1,2,1,3,1,1,3,4,bnpl,3.5,2.8,5,1,No,1,Yes,Heard of it
+418,Gen Z (14-29),24,Male,Latin America,<$25k,Unemployed,625,2,5,5,2,4,5,4,2,1,4,3,4,5,1,p2p_payment,4.4,4.2,2,4,Yes,1,No,Regular user
+419,Gen X (45-59),22,Prefer not to say,North America,$50k-$100k,Unemployed,979,2,5,4,5,2,4,1,5,3,3,4,3,3,2,credit_card,2.6,2.5,2,4,Yes,3,Yes,No experience
+420,Gen X (45-59),47,Male,North America,$100k-$250k,Unemployed,3809,5,2,1,2,2,3,3,4,3,2,1,3,2,4,debit_card,2.8,3.1,5,4,Yes,4,Yes,Regular user
+421,Gen X (45-59),25,Female,Asia-Pacific,$50k-$100k,Employed,3749,2,4,1,1,2,2,1,4,4,1,2,5,1,1,digital_wallet,3.0,2.8,5,1,Yes,1,Yes,Heard of it
+422,Gen X (45-59),48,Prefer not to say,Latin America,$100k-$250k,Unemployed,1513,4,1,5,2,2,1,4,5,5,5,5,1,2,2,bnpl,3.5,3.0,2,4,Yes,3,Yes,Tried it
+423,Gen Z (14-29),48,Non-binary,North America,$25k-$50k,Employed,3325,1,5,2,4,5,4,2,5,2,2,1,1,5,2,p2p_payment,4.6,4.1,4,2,Yes,5,No,No experience
+424,Millennial (30-44),14,Prefer not to say,Asia-Pacific,$25k-$50k,Unemployed,4978,3,5,4,3,2,5,1,1,5,1,4,4,3,3,digital_wallet,3.4,3.1,1,5,Yes,2,No,Tried it
+425,Gen Z (14-29),53,Non-binary,Latin America,>$250k,Retired,1104,1,4,4,2,4,3,3,5,1,2,4,3,2,5,bnpl,4.1,3.7,2,5,Yes,4,No,Tried it
+426,Millennial (30-44),35,Non-binary,Europe,$100k-$250k,Unemployed,1950,3,2,5,3,5,1,3,4,3,4,2,1,2,1,debit_card,4.3,2.3,4,4,Yes,4,No,No experience
+427,Millennial (30-44),73,Prefer not to say,Asia-Pacific,>$250k,Self-employed,1507,4,1,5,1,2,5,2,5,4,3,1,5,5,2,credit_card,4.0,4.4,4,5,Yes,5,No,Regular user
+428,Boomer (60+),42,Non-binary,North America,<$25k,Unemployed,1449,2,2,2,5,1,5,1,1,5,2,3,3,1,1,p2p_payment,3.4,3.1,4,5,Yes,4,No,Regular user
+429,Millennial (30-44),21,Male,North America,$100k-$250k,Student,3465,5,2,2,5,3,2,4,1,4,1,1,4,2,4,debit_card,3.9,3.9,3,4,Yes,4,No,Tried it
+430,Gen Z (14-29),24,Female,Asia-Pacific,$50k-$100k,Unemployed,492,4,1,1,3,3,2,2,1,5,4,4,5,5,4,bnpl,3.4,4.2,3,4,Yes,4,No,Regular user
+431,Gen Z (14-29),54,Non-binary,Asia-Pacific,<$25k,Self-employed,3700,1,1,4,5,3,1,1,1,1,5,2,2,1,5,p2p_payment,2.7,2.6,4,2,Yes,4,Yes,Heard of it
+432,Gen X (45-59),50,Male,North America,<$25k,Self-employed,4702,5,5,4,2,5,5,5,3,2,4,2,4,1,2,digital_wallet,5.0,4.7,5,3,Yes,3,Yes,Tried it
+433,Gen X (45-59),27,Non-binary,Europe,$50k-$100k,Employed,1228,2,5,5,3,2,2,3,5,4,3,3,5,3,3,crypto,2.8,3.8,3,1,No,3,Yes,Tried it
+434,Gen Z (14-29),73,Female,Latin America,<$25k,Retired,4508,4,1,1,4,5,3,4,2,4,4,2,1,5,2,credit_card,2.7,3.3,2,4,Yes,2,No,Tried it
+435,Gen Z (14-29),43,Male,Europe,$100k-$250k,Unemployed,1307,5,3,4,2,4,3,4,5,2,5,2,2,1,1,bnpl,4.7,2.5,3,4,No,4,No,Heard of it
+436,Gen X (45-59),48,Female,Asia-Pacific,>$250k,Employed,3684,4,5,1,2,1,5,4,3,4,1,2,4,3,4,credit_card,3.3,4.8,5,5,Yes,5,Yes,Tried it
+437,Gen Z (14-29),34,Female,Europe,<$25k,Retired,1891,4,3,1,2,1,2,3,1,4,2,2,1,4,1,p2p_payment,4.1,4.3,1,2,No,1,Yes,Regular user
+438,Boomer (60+),50,Male,North America,$100k-$250k,Unemployed,2359,2,1,5,4,3,1,1,3,5,3,2,2,5,5,crypto,3.3,2.6,3,5,Yes,2,Yes,Regular user
+439,Gen X (45-59),18,Male,Asia-Pacific,$25k-$50k,Student,960,3,5,1,1,3,1,2,4,5,5,4,3,4,4,debit_card,3.5,3.0,4,4,Yes,1,No,Regular user
+440,Gen Z (14-29),32,Male,Latin America,$100k-$250k,Unemployed,4390,5,2,2,5,3,1,1,4,2,3,1,1,1,3,credit_card,3.2,4.4,4,4,Yes,1,Yes,Regular user
+441,Gen Z (14-29),72,Prefer not to say,North America,>$250k,Self-employed,4687,2,1,2,3,2,3,2,5,1,4,5,5,5,4,digital_wallet,3.4,4.1,4,5,Yes,4,Yes,Tried it
+442,Alpha (1-13),27,Male,North America,$100k-$250k,Self-employed,4059,4,4,3,1,4,2,4,5,4,3,2,4,3,2,bnpl,3.5,4.3,1,4,Yes,5,Yes,Heard of it
+443,Millennial (30-44),39,Male,Latin America,$50k-$100k,Student,2219,2,3,5,3,4,2,1,2,1,5,5,2,1,2,digital_wallet,4.3,3.3,5,3,Yes,1,No,No experience
+444,Millennial (30-44),17,Male,Latin America,>$250k,Employed,2222,3,1,3,5,4,3,4,2,2,2,5,1,5,4,credit_card,3.8,4.1,2,1,Yes,1,No,Regular user
+445,Boomer (60+),38,Male,Europe,$25k-$50k,Retired,173,5,1,2,4,4,1,5,4,2,2,4,3,5,5,crypto,4.9,3.2,5,1,Yes,2,No,No experience
+446,Boomer (60+),58,Non-binary,Asia-Pacific,$50k-$100k,Unemployed,3208,3,5,3,2,3,1,4,1,5,3,2,4,4,2,debit_card,2.6,2.6,1,1,Yes,5,Yes,No experience
+447,Alpha (1-13),55,Prefer not to say,Latin America,$100k-$250k,Self-employed,835,1,5,5,2,1,5,4,3,4,1,5,4,1,2,debit_card,3.8,3.9,4,3,No,5,No,Tried it
+448,Gen X (45-59),38,Female,Latin America,>$250k,Employed,2466,5,5,5,4,3,4,2,2,3,3,2,1,3,3,digital_wallet,4.0,4.9,5,4,Yes,1,Yes,Regular user
+449,Millennial (30-44),31,Male,Asia-Pacific,$25k-$50k,Student,846,3,4,1,1,4,2,5,2,2,4,3,3,3,4,p2p_payment,4.8,2.9,2,5,Yes,5,Yes,Regular user
+450,Gen Z (14-29),53,Non-binary,Latin America,$50k-$100k,Self-employed,4222,4,5,4,1,3,2,4,1,4,2,3,2,1,2,p2p_payment,2.6,3.4,4,2,Yes,2,No,Regular user
+451,Gen X (45-59),21,Non-binary,Latin America,$25k-$50k,Student,4204,5,1,1,3,4,2,4,1,1,2,3,1,1,5,crypto,3.9,4.0,2,4,No,2,Yes,No experience
+452,Millennial (30-44),52,Non-binary,Europe,$100k-$250k,Unemployed,1986,5,5,5,4,5,4,5,5,5,2,5,2,2,1,debit_card,4.6,3.6,3,3,Yes,2,No,Regular user
+453,Millennial (30-44),53,Female,North America,$25k-$50k,Retired,2206,2,2,2,1,1,5,5,3,1,1,3,4,4,4,digital_wallet,3.1,4.5,2,3,Yes,4,Yes,Regular user
+454,Boomer (60+),27,Male,North America,<$25k,Self-employed,3857,4,5,2,4,5,4,1,1,2,1,4,2,1,3,digital_wallet,4.7,4.3,4,1,Yes,1,Yes,Heard of it
+455,Gen Z (14-29),45,Prefer not to say,North America,$50k-$100k,Self-employed,1351,1,4,1,5,2,1,2,2,2,5,4,3,1,2,digital_wallet,2.5,2.2,3,4,Yes,5,No,Tried it
+456,Millennial (30-44),64,Prefer not to say,North America,$25k-$50k,Unemployed,4213,3,2,5,2,3,1,5,2,1,3,5,5,2,5,credit_card,4.3,5.0,4,1,Yes,2,No,Regular user
+457,Gen Z (14-29),74,Non-binary,Latin America,$100k-$250k,Employed,3190,2,1,2,2,2,2,5,4,2,3,2,3,2,4,crypto,4.8,4.3,4,2,Yes,1,No,Regular user
+458,Millennial (30-44),51,Female,Asia-Pacific,$100k-$250k,Retired,3286,3,1,5,2,3,3,3,1,4,4,1,2,5,5,p2p_payment,4.1,4.6,3,1,No,1,No,Tried it
+459,Gen Z (14-29),46,Female,Asia-Pacific,$25k-$50k,Self-employed,2402,1,3,2,4,5,2,5,5,2,2,2,1,3,5,p2p_payment,3.6,4.0,2,2,Yes,4,No,Tried it
+460,Gen Z (14-29),36,Female,Europe,$100k-$250k,Retired,1982,1,2,5,4,4,3,2,3,5,1,2,4,4,3,credit_card,2.6,4.6,1,3,Yes,5,No,No experience
+461,Gen Z (14-29),28,Prefer not to say,Europe,>$250k,Self-employed,2771,5,3,3,3,4,4,4,5,4,4,2,5,5,4,bnpl,4.8,2.3,1,1,Yes,5,No,No experience
+462,Gen X (45-59),46,Non-binary,Latin America,>$250k,Retired,414,1,2,5,2,3,1,4,2,3,4,2,1,1,2,credit_card,3.7,3.0,1,1,Yes,2,Yes,No experience
+463,Gen X (45-59),38,Male,Asia-Pacific,>$250k,Student,4966,3,2,5,3,4,3,4,5,2,1,1,1,2,3,crypto,2.6,4.6,1,5,Yes,2,Yes,Tried it
+464,Millennial (30-44),30,Prefer not to say,Asia-Pacific,<$25k,Self-employed,2440,4,4,1,2,5,4,4,2,2,3,3,3,3,2,digital_wallet,4.2,2.6,5,3,Yes,1,No,Heard of it
+465,Alpha (1-13),46,Non-binary,North America,$25k-$50k,Retired,996,4,3,3,3,4,1,3,2,5,2,2,2,5,1,credit_card,3.7,2.2,1,5,Yes,5,Yes,Regular user
+466,Millennial (30-44),60,Non-binary,Latin America,<$25k,Employed,1427,5,4,4,3,5,3,5,2,5,3,4,3,3,5,digital_wallet,2.8,4.4,3,2,Yes,5,Yes,Tried it
+467,Gen Z (14-29),68,Male,Latin America,$100k-$250k,Student,1489,3,2,1,5,2,2,4,2,1,4,5,2,2,1,crypto,3.0,4.5,1,2,Yes,2,Yes,Heard of it
+468,Boomer (60+),15,Male,North America,<$25k,Student,3230,3,1,4,3,5,2,1,2,1,2,5,3,5,5,crypto,2.7,2.5,4,3,Yes,3,Yes,Tried it
+469,Gen Z (14-29),27,Male,Latin America,$100k-$250k,Employed,4907,1,2,2,4,1,2,4,4,1,5,4,1,5,3,debit_card,3.9,4.6,1,2,Yes,1,Yes,Heard of it
+470,Alpha (1-13),66,Female,Latin America,$100k-$250k,Retired,390,3,4,4,3,1,4,5,5,5,4,2,4,3,2,digital_wallet,4.1,4.1,2,3,Yes,5,Yes,Tried it
+471,Gen Z (14-29),53,Male,Europe,$50k-$100k,Unemployed,3039,2,3,5,2,1,2,4,4,1,3,1,2,2,2,p2p_payment,3.8,3.6,3,2,Yes,4,Yes,Tried it
+472,Alpha (1-13),53,Non-binary,Asia-Pacific,>$250k,Employed,432,1,3,4,3,3,5,3,4,1,3,3,5,1,3,credit_card,4.5,4.5,3,4,Yes,4,Yes,Heard of it
+473,Gen Z (14-29),64,Male,Latin America,$100k-$250k,Retired,1606,2,4,1,1,3,1,2,1,3,3,5,5,5,4,crypto,4.7,3.3,5,1,Yes,3,No,Heard of it
+474,Boomer (60+),52,Non-binary,Europe,$50k-$100k,Employed,349,5,3,1,2,3,4,2,1,1,1,3,1,1,1,digital_wallet,4.0,2.6,4,4,Yes,2,Yes,Heard of it
+475,Millennial (30-44),64,Prefer not to say,Asia-Pacific,>$250k,Employed,188,4,5,4,1,5,2,5,1,2,4,1,3,2,1,bnpl,2.5,2.9,3,3,Yes,2,No,Heard of it
+476,Alpha (1-13),19,Female,North America,$100k-$250k,Self-employed,408,5,1,1,2,3,1,2,3,5,2,5,3,5,2,debit_card,4.2,3.5,2,3,Yes,2,No,Heard of it
+477,Gen Z (14-29),19,Prefer not to say,Europe,$100k-$250k,Retired,4981,4,1,1,4,2,3,2,1,4,3,3,1,5,2,bnpl,3.5,3.6,1,4,No,4,No,Heard of it
+478,Millennial (30-44),16,Prefer not to say,Europe,<$25k,Unemployed,1572,5,1,4,4,1,2,1,5,3,3,1,5,1,2,crypto,3.9,4.4,3,1,Yes,2,No,Heard of it
+479,Alpha (1-13),20,Non-binary,Asia-Pacific,<$25k,Self-employed,3506,3,3,3,4,5,1,5,4,5,1,3,5,4,3,bnpl,4.1,4.4,2,1,Yes,4,Yes,Heard of it
+480,Millennial (30-44),64,Prefer not to say,North America,>$250k,Employed,1677,2,3,3,1,1,5,5,5,5,2,2,3,1,4,bnpl,3.4,3.7,1,5,Yes,3,Yes,Tried it
+481,Gen X (45-59),21,Non-binary,Europe,$100k-$250k,Employed,1353,4,2,2,5,3,3,2,1,2,4,1,2,1,1,debit_card,4.8,4.3,5,2,Yes,1,No,Heard of it
+482,Gen X (45-59),55,Male,Latin America,$25k-$50k,Employed,1184,1,2,1,2,5,5,2,3,1,5,3,4,4,5,debit_card,2.8,2.6,3,5,No,5,Yes,Heard of it
+483,Millennial (30-44),65,Male,Latin America,<$25k,Retired,2236,2,1,4,4,4,1,2,3,2,1,2,2,2,3,debit_card,4.2,2.2,3,1,Yes,3,No,Tried it
+484,Gen X (45-59),28,Non-binary,Latin America,>$250k,Retired,3220,1,5,1,2,2,5,3,4,1,4,2,5,2,1,debit_card,2.5,4.6,2,4,Yes,4,No,Tried it
+485,Millennial (30-44),60,Male,North America,$100k-$250k,Self-employed,3885,2,2,5,1,3,1,4,5,1,5,1,2,5,4,bnpl,4.8,2.2,4,2,Yes,3,Yes,No experience
+486,Boomer (60+),42,Female,Europe,$100k-$250k,Unemployed,2201,2,2,1,5,3,1,3,2,5,3,4,4,3,3,p2p_payment,2.8,2.7,5,4,No,5,No,No experience
+487,Gen Z (14-29),46,Prefer not to say,Latin America,$25k-$50k,Self-employed,1287,5,3,1,1,2,5,5,5,1,3,5,2,3,1,p2p_payment,2.7,4.1,4,5,Yes,1,No,Heard of it
+488,Gen Z (14-29),65,Female,North America,>$250k,Student,3785,4,5,3,2,2,1,1,1,3,2,1,2,5,3,debit_card,3.3,3.2,3,3,No,5,Yes,Heard of it
+489,Alpha (1-13),43,Prefer not to say,Latin America,$100k-$250k,Employed,2884,4,1,4,5,4,2,4,2,3,5,2,2,3,1,credit_card,3.4,4.6,4,4,Yes,4,Yes,No experience
+490,Boomer (60+),52,Male,Asia-Pacific,<$25k,Employed,4310,2,2,1,5,3,1,1,3,3,3,2,2,1,1,digital_wallet,3.0,2.9,1,5,Yes,5,No,No experience
+491,Millennial (30-44),40,Female,Europe,$25k-$50k,Employed,1048,3,5,3,1,3,4,5,4,5,3,1,1,1,4,crypto,4.0,2.0,5,5,Yes,3,No,Regular user
+492,Gen X (45-59),49,Male,Europe,>$250k,Self-employed,2617,3,5,2,4,1,1,5,4,2,2,4,5,4,5,credit_card,3.6,2.9,4,5,No,2,Yes,Regular user
+493,Gen Z (14-29),42,Prefer not to say,North America,$25k-$50k,Self-employed,1357,1,1,3,2,5,4,1,3,4,4,5,4,4,4,crypto,2.6,3.7,1,3,No,3,Yes,Heard of it
+494,Gen Z (14-29),51,Non-binary,North America,<$25k,Employed,706,1,5,3,3,5,1,1,1,1,3,3,5,5,1,credit_card,3.3,3.1,2,3,Yes,4,No,Regular user
+495,Millennial (30-44),70,Non-binary,Europe,>$250k,Self-employed,2710,5,5,3,3,1,1,1,3,4,1,1,1,5,3,credit_card,4.5,3.6,4,3,Yes,1,No,No experience
+496,Millennial (30-44),46,Female,Latin America,$25k-$50k,Retired,2261,2,5,1,1,5,5,5,1,2,1,5,1,5,4,p2p_payment,4.2,4.6,5,2,Yes,5,No,Heard of it
+497,Millennial (30-44),74,Male,Latin America,$50k-$100k,Retired,1959,1,2,1,2,2,2,2,2,2,4,5,1,1,5,digital_wallet,4.3,4.7,1,3,Yes,1,No,Tried it
+498,Gen Z (14-29),50,Male,Asia-Pacific,<$25k,Self-employed,3780,1,1,2,2,5,2,1,3,5,5,2,1,3,1,credit_card,4.2,2.8,4,3,Yes,4,Yes,Tried it
+499,Alpha (1-13),40,Female,Latin America,<$25k,Employed,2096,2,5,5,1,5,3,4,1,3,2,3,2,5,4,debit_card,3.3,3.4,2,3,Yes,5,No,No experience
+500,Alpha (1-13),68,Non-binary,North America,<$25k,Self-employed,3212,5,5,5,2,1,5,5,2,3,1,1,5,5,4,crypto,2.7,3.6,4,4,Yes,3,No,Regular user
